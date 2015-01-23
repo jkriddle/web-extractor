@@ -613,23 +613,23 @@
                 <h3>Popular Now</h3>
                 <ul>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/meatloaf-yes-virginia-there-is-a-great-meatloaf-54257" rev="whats_new" rel="gh-t1-2-5">Our #1 Meatloaf Recipe</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/meatloaf-yes-virginia-there-is-a-great-meatloaf-54257" rev="whats_new" rel="gh-t1-2-5">Our #1 Meatloaf Recipe</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/loaded-potato-and-buffalo-chicken-casserole-493413" rev="whats_new" rel="gh-t1-2-6">Loaded Potato & Buffalo Chicken Casserole</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/loaded-potato-and-buffalo-chicken-casserole-493413" rev="whats_new" rel="gh-t1-2-6">Loaded Potato & Buffalo Chicken Casserole</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://dessert.food.com/recipe/better-than-robert-redford-221275" rev="whats_new" rel="gh-t1-2-7">Better Than Robert Redford</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://dessert.food.com/tests/data/better-than-robert-redford-221275" rev="whats_new" rel="gh-t1-2-7">Better Than Robert Redford</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/microwave-chocolate-mug-brownie-349246" rev="whats_new" rel="gh-t1-2-8">Brownie in a Mug</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/microwave-chocolate-mug-brownie-349246" rev="whats_new" rel="gh-t1-2-8">Brownie in a Mug</a></li>
                 
                     <li><i class="icon-circle"></i><a  href="http://www.food.com/recipes/vegetarian" rev="whats_new" rel="gh-t1-2-9">Vegetarian Recipes</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/best-oatmeal-cookies-54351" rev="whats_new" rel="gh-t1-2-10">Best Oatmeal Cookies</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/best-oatmeal-cookies-54351" rev="whats_new" rel="gh-t1-2-10">Best Oatmeal Cookies</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/low-slow-oven-baked-ribs-super-simple-303245" rev="whats_new" rel="gh-t1-2-11">Low & Slow Baked Ribs</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/low-slow-oven-baked-ribs-super-simple-303245" rev="whats_new" rel="gh-t1-2-11">Low & Slow Baked Ribs</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/petes-scratch-pancakes-5170" rev="whats_new" rel="gh-t1-2-12">Pete's Scratch Pancakes</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/petes-scratch-pancakes-5170" rev="whats_new" rel="gh-t1-2-12">Pete's Scratch Pancakes</a></li>
                 
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/deviled-eggs-48153" rev="whats_new" rel="gh-t1-2-13">Deviled Egg Recipe</a></li>
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/tests/data/deviled-eggs-48153" rev="whats_new" rel="gh-t1-2-13">Deviled Egg Recipe</a></li>
                 
                 </ul>
                 
@@ -2021,10 +2021,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f118618 clrfix" id="Search_118618" href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618">
+<div class="pod sr-recipe-item f118618 clrfix" id="Search_118618" href="http://www.food.com/tests/data/lions-head-meatballs-chinese-comfort-food-118618">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >Lion's Head Meatballs..chinese Comfort Food</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/lions-head-meatballs-chinese-comfort-food-118618" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >Lion's Head Meatballs..chinese Comfort Food</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy118618">
 			<dt class="fly-dt">
@@ -2049,8 +2049,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Lion&#39;s Head Meatballs..chinese Comfort Food">
+			<a href="http://www.food.com/tests/data/lions-head-meatballs-chinese-comfort-food-118618" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Lion&#39;s Head Meatballs..chinese Comfort Food">
 			</a>
 			<p>Recipe #118618</p>
 		</div>
@@ -2065,7 +2065,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618/review" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >1 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/lions-head-meatballs-chinese-comfort-food-118618/review" onClick="removeDivTitleOnclickEvent('Search_118618',this);return false;" >1 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2127,10 +2127,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f383819 clrfix" id="Search_383819" href="http://chinese.food.com/recipe/homemade-chinese-food-chicken-fingers-and-rice-383819">
+<div class="pod sr-recipe-item f383819 clrfix" id="Search_383819" href="/tests/data/homemade-chinese-food-chicken-fingers-and-rice-383819">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/homemade-chinese-food-chicken-fingers-and-rice-383819" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >Homemade Chinese Food(Chicken Fingers and Rice)</a>
+		<a class="recipe-main-title" href="/tests/data/homemade-chinese-food-chicken-fingers-and-rice-383819" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >Homemade Chinese Food(Chicken Fingers and Rice)</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy383819">
 			<dt class="fly-dt">
@@ -2155,8 +2155,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/homemade-chinese-food-chicken-fingers-and-rice-383819" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Homemade Chinese Food(Chicken Fingers and Rice)">
+			<a href="/tests/data/homemade-chinese-food-chicken-fingers-and-rice-383819" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Homemade Chinese Food(Chicken Fingers and Rice)">
 			</a>
 			<p>Recipe #383819</p>
 		</div>
@@ -2164,7 +2164,7 @@ function escapeSeoUrl(){
 	<div class="sr-recipe-item-w">
 		<div class="user-info clrfix">
 				
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/homemade-chinese-food-chicken-fingers-and-rice-383819/review" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >Be the first to review!</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/homemade-chinese-food-chicken-fingers-and-rice-383819/review" onClick="removeDivTitleOnclickEvent('Search_383819',this);return false;" >Be the first to review!</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2228,10 +2228,10 @@ function escapeSeoUrl(){
 
 <div id="sponsorCtr2"></div>  
 
-<div class="pod sr-recipe-item f108893 clrfix" id="Search_108893" href="http://www.food.com/recipe/vietnamese-beef-stew-bo-kho-108893">
+<div class="pod sr-recipe-item f108893 clrfix" id="Search_108893" href="http://www.food.com/tests/data/vietnamese-beef-stew-bo-kho-108893">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/vietnamese-beef-stew-bo-kho-108893" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >Vietnamese Beef Stew (Bo' Kho)</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/vietnamese-beef-stew-bo-kho-108893" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >Vietnamese Beef Stew (Bo' Kho)</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy108893">
 			<dt class="fly-dt">
@@ -2256,7 +2256,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/vietnamese-beef-stew-bo-kho-108893" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >
+			<a href="http://www.food.com/tests/data/vietnamese-beef-stew-bo-kho-108893" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/10/88/93/picZS974P.jpg" alt="Vietnamese Beef Stew (Bo&#39; Kho)">
 			</a>
 			<p>Recipe #108893</p>
@@ -2272,7 +2272,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/vietnamese-beef-stew-bo-kho-108893/review" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >28 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/vietnamese-beef-stew-bo-kho-108893/review" onClick="removeDivTitleOnclickEvent('Search_108893',this);return false;" >28 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2334,10 +2334,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f82466 clrfix" id="Search_82466" href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466">
+<div class="pod sr-recipe-item f82466 clrfix" id="Search_82466" href="http://www.food.com/tests/data/korean-beef-noodles-seoul-food-82466">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >Korean Beef Noodles (Seoul Food)</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/korean-beef-noodles-seoul-food-82466" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >Korean Beef Noodles (Seoul Food)</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy82466">
 			<dt class="fly-dt">
@@ -2362,7 +2362,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >
+			<a href="http://www.food.com/tests/data/korean-beef-noodles-seoul-food-82466" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/82/46/6/picVpoofU.jpg" alt="Korean Beef Noodles (Seoul Food)">
 			</a>
 			<p>Recipe #82466</p>
@@ -2378,7 +2378,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466/review" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >23 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/korean-beef-noodles-seoul-food-82466/review" onClick="removeDivTitleOnclickEvent('Search_82466',this);return false;" >23 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2440,10 +2440,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f55242 clrfix" id="Search_55242" href="http://chinese.food.com/recipe/barbecued-red-roast-pork-tenderloin-55242">
+<div class="pod sr-recipe-item f55242 clrfix" id="Search_55242" href="/tests/data/barbecued-red-roast-pork-tenderloin-55242">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/barbecued-red-roast-pork-tenderloin-55242" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >Barbecued Red Roast Pork Tenderloin</a>
+		<a class="recipe-main-title" href="/tests/data/barbecued-red-roast-pork-tenderloin-55242" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >Barbecued Red Roast Pork Tenderloin</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy55242">
 			<dt class="fly-dt">
@@ -2468,7 +2468,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/barbecued-red-roast-pork-tenderloin-55242" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >
+			<a href="/tests/data/barbecued-red-roast-pork-tenderloin-55242" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/55/24/2/pic3a0Us8.jpg" alt="Barbecued Red Roast Pork Tenderloin">
 			</a>
 			<p>Recipe #55242</p>
@@ -2484,7 +2484,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/barbecued-red-roast-pork-tenderloin-55242/review" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >15 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/barbecued-red-roast-pork-tenderloin-55242/review" onClick="removeDivTitleOnclickEvent('Search_55242',this);return false;" >15 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2546,10 +2546,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f19766 clrfix" id="Search_19766" href="http://chinese.food.com/recipe/chinese-roast-pork-tenderloin-19766">
+<div class="pod sr-recipe-item f19766 clrfix" id="Search_19766" href="/tests/data/chinese-roast-pork-tenderloin-19766">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/chinese-roast-pork-tenderloin-19766" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >Chinese Roast Pork Tenderloin</a>
+		<a class="recipe-main-title" href="/tests/data/chinese-roast-pork-tenderloin-19766" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >Chinese Roast Pork Tenderloin</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy19766">
 			<dt class="fly-dt">
@@ -2574,7 +2574,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/chinese-roast-pork-tenderloin-19766" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >
+			<a href="/tests/data/chinese-roast-pork-tenderloin-19766" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/19/76/6/pic8lmCuI.jpg" alt="Chinese Roast Pork Tenderloin">
 			</a>
 			<p>Recipe #19766</p>
@@ -2590,7 +2590,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/chinese-roast-pork-tenderloin-19766/review" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >13 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/chinese-roast-pork-tenderloin-19766/review" onClick="removeDivTitleOnclickEvent('Search_19766',this);return false;" >13 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2652,10 +2652,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f143505 clrfix" id="Search_143505" href="http://www.food.com/recipe/chinese-pork-slices-143505">
+<div class="pod sr-recipe-item f143505 clrfix" id="Search_143505" href="http://www.food.com/tests/data/chinese-pork-slices-143505">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/chinese-pork-slices-143505" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >Chinese Pork Slices</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/chinese-pork-slices-143505" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >Chinese Pork Slices</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy143505">
 			<dt class="fly-dt">
@@ -2680,7 +2680,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/chinese-pork-slices-143505" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >
+			<a href="http://www.food.com/tests/data/chinese-pork-slices-143505" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/14/35/05/picdoBgYW.jpg" alt="Chinese Pork Slices">
 			</a>
 			<p>Recipe #143505</p>
@@ -2696,7 +2696,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/chinese-pork-slices-143505/review" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >11 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/chinese-pork-slices-143505/review" onClick="removeDivTitleOnclickEvent('Search_143505',this);return false;" >11 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2758,10 +2758,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f34265 clrfix" id="Search_34265" href="http://chinese.food.com/recipe/char-siu-chinese-sweet-barbecued-pork-34265">
+<div class="pod sr-recipe-item f34265 clrfix" id="Search_34265" href="/tests/data/char-siu-chinese-sweet-barbecued-pork-34265">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/char-siu-chinese-sweet-barbecued-pork-34265" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >Char Siu (Chinese Sweet Barbecued Pork)</a>
+		<a class="recipe-main-title" href="/tests/data/char-siu-chinese-sweet-barbecued-pork-34265" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >Char Siu (Chinese Sweet Barbecued Pork)</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy34265">
 			<dt class="fly-dt">
@@ -2786,8 +2786,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/char-siu-chinese-sweet-barbecued-pork-34265" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Char Siu (Chinese Sweet Barbecued Pork)">
+			<a href="/tests/data/char-siu-chinese-sweet-barbecued-pork-34265" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Char Siu (Chinese Sweet Barbecued Pork)">
 			</a>
 			<p>Recipe #34265</p>
 		</div>
@@ -2802,7 +2802,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/char-siu-chinese-sweet-barbecued-pork-34265/review" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >7 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/char-siu-chinese-sweet-barbecued-pork-34265/review" onClick="removeDivTitleOnclickEvent('Search_34265',this);return false;" >7 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2864,10 +2864,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f65181 clrfix" id="Search_65181" href="http://www.food.com/recipe/chinese-barbecued-pork-65181">
+<div class="pod sr-recipe-item f65181 clrfix" id="Search_65181" href="http://www.food.com/tests/data/chinese-barbecued-pork-65181">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/chinese-barbecued-pork-65181" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >Chinese Barbecued Pork</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/chinese-barbecued-pork-65181" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >Chinese Barbecued Pork</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy65181">
 			<dt class="fly-dt">
@@ -2892,8 +2892,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/chinese-barbecued-pork-65181" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Chinese Barbecued Pork">
+			<a href="http://www.food.com/tests/data/chinese-barbecued-pork-65181" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Chinese Barbecued Pork">
 			</a>
 			<p>Recipe #65181</p>
 		</div>
@@ -2908,7 +2908,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/chinese-barbecued-pork-65181/review" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >7 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/chinese-barbecued-pork-65181/review" onClick="removeDivTitleOnclickEvent('Search_65181',this);return false;" >7 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -2970,10 +2970,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f128611 clrfix" id="Search_128611" href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611">
+<div class="pod sr-recipe-item f128611 clrfix" id="Search_128611" href="/tests/data/chinese-barbecue-sauce-128611">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >Chinese Barbecue Sauce</a>
+		<a class="recipe-main-title" href="/tests/data/chinese-barbecue-sauce-128611" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >Chinese Barbecue Sauce</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy128611">
 			<dt class="fly-dt">
@@ -2998,7 +2998,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >
+			<a href="/tests/data/chinese-barbecue-sauce-128611" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/12/86/11/picw2kMZl.jpg" alt="Chinese Barbecue Sauce">
 			</a>
 			<p>Recipe #128611</p>
@@ -3014,7 +3014,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/review" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >5 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/chinese-barbecue-sauce-128611/review" onClick="removeDivTitleOnclickEvent('Search_128611',this);return false;" >5 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3076,10 +3076,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f87402 clrfix" id="Search_87402" href="http://www.food.com/recipe/chinese-style-spareribs-87402">
+<div class="pod sr-recipe-item f87402 clrfix" id="Search_87402" href="http://www.food.com/tests/data/chinese-style-spareribs-87402">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/chinese-style-spareribs-87402" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >Chinese Style Spareribs</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/chinese-style-spareribs-87402" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >Chinese Style Spareribs</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy87402">
 			<dt class="fly-dt">
@@ -3104,7 +3104,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/chinese-style-spareribs-87402" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >
+			<a href="http://www.food.com/tests/data/chinese-style-spareribs-87402" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/87/40/2/picsXeTyM.jpg" alt="Chinese Style Spareribs">
 			</a>
 			<p>Recipe #87402</p>
@@ -3120,7 +3120,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/chinese-style-spareribs-87402/review" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >3 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/chinese-style-spareribs-87402/review" onClick="removeDivTitleOnclickEvent('Search_87402',this);return false;" >3 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3182,10 +3182,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f369387 clrfix" id="Search_369387" href="http://chinese.food.com/recipe/chinese-barbecued-pork-cha-sieu-369387">
+<div class="pod sr-recipe-item f369387 clrfix" id="Search_369387" href="/tests/data/chinese-barbecued-pork-cha-sieu-369387">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/chinese-barbecued-pork-cha-sieu-369387" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >Chinese Barbecued Pork ( Cha Sieu)</a>
+		<a class="recipe-main-title" href="/tests/data/chinese-barbecued-pork-cha-sieu-369387" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >Chinese Barbecued Pork ( Cha Sieu)</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy369387">
 			<dt class="fly-dt">
@@ -3210,7 +3210,7 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/chinese-barbecued-pork-cha-sieu-369387" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >
+			<a href="/tests/data/chinese-barbecued-pork-cha-sieu-369387" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >
 				<img src="http://img.sndimg.com/food/image/upload/c_fit,w_98,h_73/v1/img/recipes/36/93/87/t3XY9OjzQQqwICR8UGrd_IMG_9862.JPG" alt="Chinese Barbecued Pork ( Cha Sieu)">
 			</a>
 			<p>Recipe #369387</p>
@@ -3226,7 +3226,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/chinese-barbecued-pork-cha-sieu-369387/review" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >3 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/chinese-barbecued-pork-cha-sieu-369387/review" onClick="removeDivTitleOnclickEvent('Search_369387',this);return false;" >3 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3288,10 +3288,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f51286 clrfix" id="Search_51286" href="http://chinese.food.com/recipe/chinese-barbecue-pork-51286">
+<div class="pod sr-recipe-item f51286 clrfix" id="Search_51286" href="/tests/data/chinese-barbecue-pork-51286">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://chinese.food.com/recipe/chinese-barbecue-pork-51286" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >Chinese Barbecue Pork</a>
+		<a class="recipe-main-title" href="/tests/data/chinese-barbecue-pork-51286" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >Chinese Barbecue Pork</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy51286">
 			<dt class="fly-dt">
@@ -3316,8 +3316,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://chinese.food.com/recipe/chinese-barbecue-pork-51286" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Chinese Barbecue Pork">
+			<a href="/tests/data/chinese-barbecue-pork-51286" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Chinese Barbecue Pork">
 			</a>
 			<p>Recipe #51286</p>
 		</div>
@@ -3332,7 +3332,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://chinese.food.com/recipe/chinese-barbecue-pork-51286/review" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >3 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="/tests/data/chinese-barbecue-pork-51286/review" onClick="removeDivTitleOnclickEvent('Search_51286',this);return false;" >3 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3394,10 +3394,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item f228433 clrfix" id="Search_228433" href="http://www.food.com/recipe/chinese-barbecued-pork-228433">
+<div class="pod sr-recipe-item f228433 clrfix" id="Search_228433" href="http://www.food.com/tests/data/chinese-barbecued-pork-228433">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/chinese-barbecued-pork-228433" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >Chinese Barbecued Pork</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/chinese-barbecued-pork-228433" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >Chinese Barbecued Pork</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy228433">
 			<dt class="fly-dt">
@@ -3422,8 +3422,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/chinese-barbecued-pork-228433" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Chinese Barbecued Pork">
+			<a href="http://www.food.com/tests/data/chinese-barbecued-pork-228433" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Chinese Barbecued Pork">
 			</a>
 			<p>Recipe #228433</p>
 		</div>
@@ -3438,7 +3438,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/chinese-barbecued-pork-228433/review" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >2 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/chinese-barbecued-pork-228433/review" onClick="removeDivTitleOnclickEvent('Search_228433',this);return false;" >2 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3500,10 +3500,10 @@ function escapeSeoUrl(){
 
 
 
-<div class="pod sr-recipe-item last f64956 clrfix" id="Search_64956" href="http://www.food.com/recipe/key-west-cake-64956">
+<div class="pod sr-recipe-item last f64956 clrfix" id="Search_64956" href="http://www.food.com/tests/data/key-west-cake-64956">
 		
 	<div id="recipe-drop-icon" class="recipe-dd addto-dd clrfix">
-		<a class="recipe-main-title" href="http://www.food.com/recipe/key-west-cake-64956" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >Key West Cake</a>
+		<a class="recipe-main-title" href="http://www.food.com/tests/data/key-west-cake-64956" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >Key West Cake</a>
 		
 		<!-- <dl class="fsm" id="recipeOpthealthy64956">
 			<dt class="fly-dt">
@@ -3528,8 +3528,8 @@ function escapeSeoUrl(){
 
 				
 		<div class="sr-recipe-item-e">
-			<a href="http://www.food.com/recipe/key-west-cake-64956" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >
-				<img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" alt="Key West Cake">
+			<a href="http://www.food.com/tests/data/key-west-cake-64956" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >
+				<img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" alt="Key West Cake">
 			</a>
 			<p>Recipe #64956</p>
 		</div>
@@ -3544,7 +3544,7 @@ function escapeSeoUrl(){
 				</ul>
 				</span>						
 					</div>
-					<p class="rz-tl-txt02"><a href="http://www.food.com/recipe/key-west-cake-64956/review" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >2 Reviews</a></p>
+					<p class="rz-tl-txt02"><a href="http://www.food.com/tests/data/key-west-cake-64956/review" onClick="removeDivTitleOnclickEvent('Search_64956',this);return false;" >2 Reviews</a></p>
 					
 		</div>
 		<div class="cook-time-estimate">
@@ -3795,7 +3795,7 @@ $(document).ready(function(){
 			
 
 <li><a href="http://mexican.food.com" rel="Mexican Recipes">Mexican Recipes</a></li>
-<li><a href="http://chinese.food.com" rel="Chinese Recipes">Chinese Recipes</a></li>
+<li><a href="" rel="Chinese Recipes">Chinese Recipes</a></li>
 <li><a href="http://australian.food.com" rel="Australian Recipes">Australian Recipes</a></li>
 <li><a href="http://breakfast.food.com" rel="Breakfast Recipes">Breakfast Recipes</a></li>
 <li><a href="http://greek.food.com" rel="Greek Recipes">Greek Recipes</a></li>
@@ -3812,7 +3812,7 @@ $(document).ready(function(){
 <li><a href="http://healthy.food.com" rel="Healthy Recipes">Healthy Recipes</a></li>
 <li><a href="http://meatloaf.food.com" rel="Meatloaf Recipes">Meatloaf Recipes</a></li>
 
-<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
+<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
 
                   
         </ul>
@@ -3846,35 +3846,35 @@ $(document).ready(function(){
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
+						<a href="http://www.food.com/tests/data/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
+						<a href="http://www.food.com/tests/data/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://deep-fried.food.com/recipe/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
+						<a href="http://deep-fried.food.com/tests/data/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://southern.food.com/recipe/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
+						<a href="http://southern.food.com/tests/data/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
 					</li>					
 								
 					<li>
-						<a href="http://dessert.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
+						<a href="http://dessert.food.com/tests/data/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
+						<a href="http://www.food.com/tests/data/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
+						<a href="http://www.food.com/tests/data/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
+						<a href="http://www.food.com/tests/data/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
 					</li>					
 			
 			

@@ -5,11 +5,11 @@
     "timeout" : 3000,
     "interval" : 250,
     "start" : [
-        "http://localhost:8181/tests/data/chinese-food-list.html"
+        "http://localhost:8181/tests/data/chinese-food-list"
     ],
     "crawl": [
         "/all/chinese-food?pn=([0-9]+)",
-        "/recipe/([0-9A-Za-z-_]+)"
+        "/tests/data/([0-9A-Za-z-_]+)"
     ],
     "extract": [
         {

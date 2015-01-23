@@ -209,7 +209,7 @@
 
     mdManager.addParameter('Subdomain', 'chinese');
 
-    mdManager.addParameter('Url', 'http://chinese.food.com/recipe/chinese-barbecue-sauce-128611');
+    mdManager.addParameter('Url', 'http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611');
 
     mdManager.addParameter('Title', 'Chinese Barbecue Sauce Recipe - Chinese.Food.com');
 
@@ -303,7 +303,7 @@
     <meta name="description" lang="en" content="This is the exact sauce that you use when you want some real Chinese ribs. Also can be used as a marinade for boneless pork, which goes PERFECTLY in roast pork fried rice!"/>
 
      
-    <link rel="canonical" href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611"/>
+    <link rel="canonical" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611"/>
     
     <link rel="publisher" href="https://plus.google.com/117908044835237955765" />
 
@@ -318,7 +318,7 @@
     
     
     <meta property="og:title" content="Chinese Barbecue Sauce" />    
-    <meta property="og:url" content="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611" />
+    <meta property="og:url" content="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611" />
     <meta property="og:description" content="This is the exact sauce that you use when you want some real Chinese ribs. Also can be used as a marinade for boneless pork, which goes PERFECTLY in roast pork fried rice!" />
     <meta property="og:image" content="http://img.sndimg.com/food/image/upload/w_614,h_461/v1/img/recipes/12/86/11/picw2kMZl.jpg"/>
     
@@ -593,32 +593,7 @@
                 </ul>
                 
             </section>
-        
-            <section class="dpdwn-mod">
-                <h3>Popular Now</h3>
-                <ul>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/meatloaf-yes-virginia-there-is-a-great-meatloaf-54257" rev="whats_new" rel="gh-t1-2-5">Our #1 Meatloaf Recipe</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/loaded-potato-and-buffalo-chicken-casserole-493413" rev="whats_new" rel="gh-t1-2-6">Loaded Potato & Buffalo Chicken Casserole</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://dessert.food.com/recipe/better-than-robert-redford-221275" rev="whats_new" rel="gh-t1-2-7">Better Than Robert Redford</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/microwave-chocolate-mug-brownie-349246" rev="whats_new" rel="gh-t1-2-8">Brownie in a Mug</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipes/vegetarian" rev="whats_new" rel="gh-t1-2-9">Vegetarian Recipes</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/best-oatmeal-cookies-54351" rev="whats_new" rel="gh-t1-2-10">Best Oatmeal Cookies</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/low-slow-oven-baked-ribs-super-simple-303245" rev="whats_new" rel="gh-t1-2-11">Low & Slow Baked Ribs</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/petes-scratch-pancakes-5170" rev="whats_new" rel="gh-t1-2-12">Pete's Scratch Pancakes</a></li>
-                
-                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/deviled-eggs-48153" rev="whats_new" rel="gh-t1-2-13">Deviled Egg Recipe</a></li>
-                
-                </ul>
-                
-            </section>
+
         
     </div>
 
@@ -1320,7 +1295,7 @@ var form_details = {
 </div>
 
     <div id="rz-bd" class="clrfix recipe-detail-page" itemscope itemtype="http://schema.org/Recipe">
-       <span itemprop="url" style="display:none">http://chinese.food.com/recipe/chinese-barbecue-sauce-128611</span>
+       <span itemprop="url" style="display:none">http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611</span>
         <div id="rz-lead"  class="recipe-info-page clrfix tabby">
                 <div class="leady-hd rz-rec clrfix">
                     
@@ -1419,15 +1394,15 @@ var form_details = {
 
 <ul class="tab-nav">
     <li class="btn-tab  active ">
-    	<a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611"><span>Recipe</span></a>
+    	<a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611"><span>Recipe</span></a>
     </li>
     
     <li class="btn-tab ">
-    	<a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/review"><span>Ratings &amp; Reviews<em>(5)</em></span></a>
+    	<a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review"><span>Ratings &amp; Reviews<em>(5)</em></span></a>
     </li>
     
     <li  class="btn-tab tab-photos ">
-    	<a data-slidepos="0" href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/photo"><span>Photos<em>(1)</em></span></a>
+    	<a data-slidepos="0" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/photo"><span>Photos<em>(1)</em></span></a>
     </li>
 </ul>
 <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@c9e0391 -->
@@ -1524,7 +1499,7 @@ var form_details = {
                             </ul>
                         </span>
                         
-                        <p class="rating-txt"><span><span id="rz-rate-it"><a id="ratid" href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/review#rz-w" rel="rateit">Rate it!</a></span> | <a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/review" id="readthereview" rel="redrvl">Read 5 Reviews</a></span></p>
+                        <p class="rating-txt"><span><span id="rz-rate-it"><a id="ratid" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review#rz-w" rel="rateit">Rate it!</a></span> | <a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review" id="readthereview" rel="redrvl">Read 5 Reviews</a></span></p>
                     </div>
                     
                     <div class="ckTime clrfix">
@@ -1673,7 +1648,7 @@ var form_details = {
     <script language="javascript">
 
         SNI.RZ.Recipe.servingConfig = {
-            url: "http://chinese.food.com/recipe/chinese-barbecue-sauce-128611?",
+            url: "http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611?",
             mode: "null"
         };
 
@@ -1703,7 +1678,7 @@ var form_details = {
             </div>
         </div>
         <div class="section clrfix units">
-            <div class="part"><p>Units:  US  |  <a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611?mode=metric&scaleto=4.0&st=null">Metric</a></p></div>
+            <div class="part"><p>Units:  US  |  <a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611?mode=metric&scaleto=4.0&st=null">Metric</a></p></div>
         </div>
         </div>
 
@@ -1868,7 +1843,7 @@ var form_details = {
                     <div class="pod Pcorrections">
                     <ul>
                         <li id="submit-correction" class="last lastSubmit">
-                            <a id="subycorr" href="http://www.food.com/recipe/edit.php?rid=128611" class="sac" rel="rt-2">Submit a Correction</a>
+                            <a id="subycorr" href="http://www.food.com/tests/data/edit.php?rid=128611" class="sac" rel="rt-2">Submit a Correction</a>
                         </li>                        
                         </ul>
                     </div>
@@ -1925,75 +1900,6 @@ $(document).ready(function(){
 
 
 
-
-<h2 class="hd">Browse Our Top <a id="brtoprec" href="http://Chinese.food.com/">Chinese</a> Recipes</h2>
-    <ul class="colList clrfix" id ="bmrec">
-            
-                <li>
-                  <a  href="http://www.food.com/recipe/quick-and-tangy-chinese-barbecue-sauce-307234" rel="bmr-0"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/30/72/34/picD7UCij.jpg" title="Quick and Tangy Chinese Barbecue Sauce. Recipe by Sue Lau" alt="Quick and Tangy Chinese Barbecue Sauce. Recipe by Sue Lau"/></a>
-                	<p><a href="http://www.food.com/recipe/quick-and-tangy-chinese-barbecue-sauce-307234" rel="bmr-0">Quick and Tangy Chinese Barbecue Sauce</a></p>
-                  <small>By Sue Lau</small>
-                  
-                	<span class="inline-rating small">
-                		<ul class="star-rating">
-                			<li style="width: 100.00%;;" class="current-rating"></li>
-                		</ul>
-                	</span>
-                  
-                </li>
-            
-                <li>
-                  <a  href="http://chinese.food.com/recipe/ww-chinese-pineapple-chicken-with-black-bean-sauce-points-7-328079" rel="bmr-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/32/80/79/picz6D1mk.jpg" title="Ww Chinese Pineapple Chicken With Black Bean Sauce - Points=7. Recipe by senseicheryl" alt="Ww Chinese Pineapple Chicken With Black Bean Sauce - Points=7. Recipe by senseicheryl"/></a>
-                	<p><a href="http://chinese.food.com/recipe/ww-chinese-pineapple-chicken-with-black-bean-sauce-points-7-328079" rel="bmr-1">Ww Chinese Pineapple Chicken With Black Bean Sauce -...</a></p>
-                  <small>By senseicheryl</small>
-                  
-                	<span class="inline-rating small">
-                		<ul class="star-rating">
-                			<li style="width: 100.00%;;" class="current-rating"></li>
-                		</ul>
-                	</span>
-                  
-                </li>
-            
-                <li>
-                  <a  href="http://www.food.com/recipe/baked-pork-ribs-with-hoisin-barbecue-sauce-254827" rel="bmr-2"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/25/48/27/picMeAqDL.jpg" title="Baked Pork Ribs With Hoisin Barbecue Sauce. Recipe by lazyme" alt="Baked Pork Ribs With Hoisin Barbecue Sauce. Recipe by lazyme"/></a>
-                	<p><a href="http://www.food.com/recipe/baked-pork-ribs-with-hoisin-barbecue-sauce-254827" rel="bmr-2">Baked Pork Ribs With Hoisin Barbecue Sauce</a></p>
-                  <small>By lazyme</small>
-                  
-                	<span class="inline-rating small">
-                		<ul class="star-rating">
-                			<li style="width: 100.00%;;" class="current-rating"></li>
-                		</ul>
-                	</span>
-                  
-                </li>
-            
-                <li>
-                  <a  href="http://chinese.food.com/recipe/chinese-beef-and-asparagus-with-black-bean-sauce-236750" rel="bmr-3"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/23/67/50/picyYzSgX.jpg" title="Chinese Beef and Asparagus With Black Bean Sauce. Recipe by BarbryT" alt="Chinese Beef and Asparagus With Black Bean Sauce. Recipe by BarbryT"/></a>
-                	<p><a href="http://chinese.food.com/recipe/chinese-beef-and-asparagus-with-black-bean-sauce-236750" rel="bmr-3">Chinese Beef and Asparagus With Black Bean Sauce</a></p>
-                  <small>By BarbryT</small>
-                  
-                	<span class="inline-rating small">
-                		<ul class="star-rating">
-                			<li style="width: 100.00%;;" class="current-rating"></li>
-                		</ul>
-                	</span>
-                  
-                </li>
-            
-    </ul>
-
-                </div>
-
-                <div style="clear:both">
-                    
-
-
-
-
-
-
-				
 
 
 <script language="javascript">
@@ -2245,7 +2151,7 @@ Thank you for posting this!</span></p>
 	
 	</ul>
 	
-	<p class="more"><a href="http://chinese.food.com/recipe/chinese-barbecue-sauce-128611/review">Read All Reviews (5)</a></p>
+	<p class="more"><a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review">Read All Reviews (5)</a></p>
 
 
 </div>
@@ -2292,9 +2198,9 @@ Thank you for posting this!</span></p>
 							<div class="pod next-recipe clrfix">
 								<h4>You Might Also Like...</h4>
 									<div class="bd clrfix">
-										<a id="nxt-recipe-img" href="javascript:loadNextRecipe('http://www.food.com/recipe/chinese-barbecue-sauce-425568','425568');" rel="nri-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/42/55/68/pic1GZMnm.jpg" alt="Chinese Barbecue Sauce. Recipe by ElaineAnn" title="Chinese Barbecue Sauce. Recipe by ElaineAnn" width="92" height="69" /></a>
+										<a id="nxt-recipe-img" href="javascript:loadNextRecipe('http://www.food.com/tests/data/chinese-barbecue-sauce-425568','425568');" rel="nri-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/42/55/68/pic1GZMnm.jpg" alt="Chinese Barbecue Sauce. Recipe by ElaineAnn" title="Chinese Barbecue Sauce. Recipe by ElaineAnn" width="92" height="69" /></a>
 										<div class="cont">
-											<p><a id="nxt-recipe-txt" href="http://www.food.com/recipe/chinese-barbecue-sauce-425568" rel="nrt-1">Chinese Barbecue Sauce</a></p>
+											<p><a id="nxt-recipe-txt" href="http://www.food.com/tests/data/chinese-barbecue-sauce-425568" rel="nrt-1">Chinese Barbecue Sauce</a></p>
 											<small>By <a id="nxt-recipe-by" rel="nr-1" href="http://share.food.com/community/ElaineAnn/style.esi?member_id=201581">ElaineAnn</a></small>
 											
 											<span class="inline-rating small">
@@ -2304,7 +2210,7 @@ Thank you for posting this!</span></p>
 											</span>
 											
 										</div>
-										<a id="nxt-recipe" href="javascript:loadNextRecipe('http://www.food.com/recipe/chinese-barbecue-sauce-425568','425568');" rel="nr-1"><em></em></a>
+										<a id="nxt-recipe" href="javascript:loadNextRecipe('http://www.food.com/tests/data/chinese-barbecue-sauce-425568','425568');" rel="nr-1"><em></em></a>
 									</div>
 									
 									<small><a href="http://Chinese.food.com/" id="ViewAllRecipe">View All Chinese Recipes</a></small>
@@ -2410,7 +2316,7 @@ Thank you for posting this!</span></p>
 	
 	
 	<div class="ft">
-		<a href="http://www.food.com/recipe/nutrition?rid=128611" class="detail">Detailed Nutrition Values</a>
+		<a href="http://www.food.com/tests/data/nutrition?rid=128611" class="detail">Detailed Nutrition Values</a>
 		<a href="http://www.food.com/help/nutrition.zsp" class="about">About Nutrition Info</a>
 	</div>
 
@@ -2710,7 +2616,7 @@ Thank you for posting this!</span></p>
 <li><a href="http://healthy.food.com" rel="Healthy Recipes">Healthy Recipes</a></li>
 <li><a href="http://meatloaf.food.com" rel="Meatloaf Recipes">Meatloaf Recipes</a></li>
 
-<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
+<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
 
                   
         </ul>
@@ -2744,35 +2650,35 @@ Thank you for posting this!</span></p>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
+						<a href="http://www.food.com/tests/data/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
+						<a href="http://www.food.com/tests/data/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://deep-fried.food.com/recipe/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
+						<a href="http://deep-fried.food.com/tests/data/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://southern.food.com/recipe/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
+						<a href="http://southern.food.com/tests/data/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
 					</li>					
 								
 					<li>
-						<a href="http://dessert.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
+						<a href="http://dessert.food.com/tests/data/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
+						<a href="http://www.food.com/tests/data/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
+						<a href="http://www.food.com/tests/data/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/recipe/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
+						<a href="http://www.food.com/tests/data/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
 					</li>					
 			
 			

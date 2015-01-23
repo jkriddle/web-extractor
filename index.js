@@ -14,7 +14,7 @@ function runTests() {
 // Fire up server for local testing (we don't want to hit a live site with huge amounts of testing traffic)
 connect().use(serveStatic(__dirname)).listen(8181, function() {
 	var crawler = new Crawler('tests/config/test.json');
-	crawler.start('http://www.theriddlebrothers.com').then(function() {
+	crawler.start().then(function() {
 		console.log("DONE!");
 	})
 });

@@ -1,8 +1,8 @@
 var assert = require("assert"),
 	fs = require("fs"),
 	Extractor = require("../lib/extractor"),
-	listHtml = fs.readFileSync('tests/data/chinese-food-list.html', 'utf8'),
-	itemHtml = fs.readFileSync('tests/data/chinese-bbq-sauce.html', 'utf8'),
+	listHtml = fs.readFileSync('tests/data/chinese-food-list', 'utf8'),
+	itemHtml = fs.readFileSync('tests/data/chinese-bbq-sauce-128611', 'utf8'),
 	Crawler = Extractor.Crawler,
 	ExtractMatch = Extractor.ExtractMatch;
 
@@ -10,7 +10,7 @@ describe('Crawler', function() {
 	describe('#download()', function() {
 		it('should respond with data from valid URL', function(done) {
 			var crawler = new Crawler('tests/config/test.json');
-			crawler.download('http://localhost:8181/data/chinese-food-list.html').then(function(html) {
+			crawler.download('http://localhost:8181/data/chinese-food-list').then(function(html) {
 				assert.notEqual(html.indexOf("<title>Chinese Food Recipes  - Food.com</title>"), -1);
 				done();
 			}).catch(function(err) {
