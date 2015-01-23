@@ -1,0 +1,18 @@
+# Web Extractor
+----
+
+Crawl and scrape data from the web based on a ruleset you create.
+
+## Installation
+
+`npm install`
+
+## Configuration
+
+Create a json file with the rules you would like the extractor to follow. For examples see the /tests/json/ folder.
+
+TODO: Document configuration properties
+
+## Results
+
+Results will be written to the /output folder.

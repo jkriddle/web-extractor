@@ -1,0 +1,15 @@
+{
+  "name": "web-extractor",
+  "version": "1.0.0",
+  "description": "Crawl and extract data from the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkriddle/web-extractor.git"
+  },
+  "author": "Joshua Riddle",
+  "license": "MIT"
+}
