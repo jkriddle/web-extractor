@@ -1,0 +1,86 @@
+{
+    "name": "Chinese food recipes",
+    "downloadImages": false,
+    "maxDepth" : 2,
+    "timeout" : 3000,
+    "interval" : 250,
+    "start" : [
+        "http://localhost:8181/tests/data/chinese-food-list.html"
+    ],
+    "crawl": [
+        "/all/chinese-food?pn=([0-9]+)",
+        "/recipe/([0-9A-Za-z-_]+)"
+    ],
+    "extract": [
+        {
+            "name": "Recipe Group",
+            "match": "#rz-bd",
+            "children": [
+                {
+                    "name": "Title",
+                    "match": "#rz-lead .item h1.fn"
+                },
+                {
+                    "name": "Rating",
+                    "match": ".rating .average .value-title[title]"
+                },
+                {
+                    "name": "Photo",
+                    "match": ".recipe-photo-bd #enlrphoto img"
+                },
+                {
+                    "name": "Time Group",
+                    "match": ".ckTime .ct-e",
+                    "children": [
+                        {
+                            "name": "Total Time",
+                            "match": ".duration"
+                        },
+                        {
+                            "name": "Prep Time",
+                            "match": ".preptime"
+                        },
+                        {
+                            "name": "Cook Time",
+                            "match": ".cooktime"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ingredients Group",
+                    "match": ".ingredients",
+                    "children": [
+                        {
+                            "name": "Ingredient",
+                            "match": ".ingredient",
+                            "children": [
+                                {
+                                    "name": "Value",
+                                    "match": ".value"
+                                },
+                                {
+                                    "name": "Type",
+                                    "match": ".type"
+                                },
+                                {
+                                    "name": "Name",
+                                    "match": ".name"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Directions",
+                    "match": ".directions",
+                    "children": [
+                        {
+                            "name": "Step",
+                            "match": ".ol li"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
