@@ -4,7 +4,11 @@
     "maxDepth" : 2,
     "timeout" : 3000,
     "interval" : 250,
-    "cache" : "cache",
+    "cache" : false,
+    "output" : {
+        "format" : "json",
+        "directory" : "output"
+    },
     "start" : [
         "http://localhost:8181/tests/data/chinese-food-list"
     ],
@@ -14,70 +18,37 @@
     ],
     "extract": [
         {
-            "name": "Recipe Group",
-            "match": "#rz-bd",
+            "name": "recipe",
+            "description": "Recipe",
+            "match": "body",
             "children": [
                 {
-                    "name": "Title",
-                    "match": "#rz-lead .item h1.fn"
-                },
-                {
-                    "name": "Rating",
-                    "match": ".rating .average .value-title[title]"
-                },
-                {
-                    "name": "Photo",
-                    "match": ".recipe-photo-bd #enlrphoto img"
-                },
-                {
-                    "name": "Time Group",
-                    "match": ".ckTime .ct-e",
-                    "children": [
-                        {
-                            "name": "Total Time",
-                            "match": ".duration"
-                        },
-                        {
-                            "name": "Prep Time",
-                            "match": ".preptime"
-                        },
-                        {
-                            "name": "Cook Time",
-                            "match": ".cooktime"
-                        }
-                    ]
-                },
-                {
-                    "name": "Ingredients Group",
+                    "name": "ingredients",
+                    "description": "Ingredients",
                     "match": ".ingredients",
+                    "type" : "array",
                     "children": [
                         {
-                            "name": "Ingredient",
-                            "match": ".ingredient",
+                            "name": "ingredient",
+                            "description": "Ingredient",
+                            "match": "li.ingredient",
                             "children": [
                                 {
-                                    "name": "Value",
+                                    "name": "value",
+                                    "description": "Value",
                                     "match": ".value"
                                 },
                                 {
-                                    "name": "Type",
+                                    "name": "type",
+                                    "description": "Type",
                                     "match": ".type"
                                 },
                                 {
-                                    "name": "Name",
+                                    "name": "name",
+                                    "description": "Name",
                                     "match": ".name"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Directions",
-                    "match": ".directions",
-                    "children": [
-                        {
-                            "name": "Step",
-                            "match": ".ol li"
                         }
                     ]
                 }

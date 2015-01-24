@@ -3,6 +3,8 @@ var assert = require("assert"),
 	Extractor = require("../lib/extractor"),
 	listHtml = fs.readFileSync('tests/data/chinese-food-list', 'utf8'),
 	itemHtml = fs.readFileSync('tests/data/chinese-barbecue-sauce-128611', 'utf8'),
+	scrapeHtml = fs.readFileSync('tests/data/sample-scrape-test-file', 'utf8'),
+	util = require('util'),
 	Crawler = Extractor.Crawler,
 	ExtractMatch = Extractor.ExtractMatch;
 
@@ -11,7 +13,6 @@ describe('Crawler', function() {
 		it('should return system path friendly format', function() {
 			var crawler = new Crawler('tests/config/test.json');
 			var result = crawler.getCleanUrl('http://localhost:8080/some-crazy-path?query=string');
-			console.log(result);
 			assert.equal(result, 'httplocalhost8080some-crazy-pathquerystring');
 		});
 	});
@@ -19,11 +20,11 @@ describe('Crawler', function() {
 	describe('#scrape()', function() {
 		it('should respond with JSON object of scraped data', function(done) {
 			var crawler = new Crawler('tests/config/test.json');
-			crawler.scrape('chinese-barbecue-sauce-128611', listHtml).then(function(obj) {
+			crawler.scrape('http://localhost:8181/tests/data/sample-scrape-test-file', scrapeHtml).then(function(obj) {
 				assert.notEqual(obj, undefined);
-				console.log(obj);
-				if (obj != undefined) {
-					assert(obj.Title == "Chinese Barbecue Sauce");
+				//console.log(util.inspect(obj, { showHidden : false, depth: 5}));
+				if (obj != undefined && obj.recipe != undefined) {
+					assert.equal(obj.recipe.title, "Chinese Barbecue Sauce");
 				}
 				done();
 			}).catch(done);
@@ -81,7 +82,7 @@ describe('ExtractMatch', function() {
 			var config = JSON.parse(fs.readFileSync('tests/config/test.json', 'utf8'));
 			var extractMatch = new ExtractMatch(config.extract[0]);
 			var child = extractMatch.getChildren()[0];
-			assert.equal(child.getFullSpecifier(), "#rz-bd #rz-lead .item h1.fn");
+			assert.equal(child.getFullSpecifier(), "body #rz-lead .item h1.fn");
 		});
 	});
 });

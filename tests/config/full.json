@@ -1,0 +1,115 @@
+{
+    "name": "Chinese food recipes",
+    "downloadImages": false,
+    "maxDepth" : 2,
+    "timeout" : 3000,
+    "interval" : 250,
+    "cache" : false,
+    "output" : {
+        "format" : "json",
+        "directory" : "output"
+    },
+    "start" : [
+        "http://localhost:8181/tests/data/chinese-food-list"
+    ],
+    "crawl": [
+        "/all/chinese-food?pn=([0-9]+)",
+        "/tests/data/([0-9A-Za-z-_]+)"
+    ],
+    "extract": [
+        {
+            "name": "recipe",
+            "description": "Recipe",
+            "match": "body",
+            "children": [
+                {
+                    "name": "title",
+                    "description": "title",
+                    "match": "#rz-lead .item h1.fn"
+                },
+                {
+                    "name": "rating",
+                    "description": "Rating",
+                    "match": ".rating .average .value-title[title]"
+                },
+                {
+                    "name": "photo",
+                    "description": "Photo",
+                    "match": ".recipe-photo-bd #enlrphoto img"
+                },
+                {
+                    "name": "time",
+                    "description": "Time",
+                    "match": ".ckTime .ct-e",
+                    "children": [
+                        {
+                            "name": "total_time",
+                            "description": "Total Time",
+                            "match": ".duration"
+                        },
+                        {
+                            "name": "prep_time",
+                            "description": "Prep Time",
+                            "match": ".preptime"
+                        },
+                        {
+                            "name": "cook_time",
+                            "description": "Cook Time",
+                            "match": ".cooktime"
+                        }
+                    ]
+                },
+                {
+                    "name": "ingredients",
+                    "description": "Ingredients",
+                    "match": ".ingredients",
+                    "type" : "array",
+                    "children": [
+                        {
+                            "name": "ingredient",
+                            "description": "Ingredient",
+                            "match": ".ingredient",
+                            "children": [
+                                {
+                                    "name": "value",
+                                    "description": "Value",
+                                    "match": ".value"
+                                },
+                                {
+                                    "name": "type",
+                                    "description": "Type",
+                                    "match": ".type"
+                                },
+                                {
+                                    "name": "name",
+                                    "description": "Name",
+                                    "match": ".name"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "directions",
+                    "description": "Directions",
+                    "match": ".directions",
+                    "type" : "array",
+                    "children": [
+                        {
+                            "name": "step",
+                            "description": "Step",
+                            "match": "ol",
+                            "children": [
+                                {
+                                    "name": "description",
+                                    "description": "Description",
+                                    "match": "li"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
