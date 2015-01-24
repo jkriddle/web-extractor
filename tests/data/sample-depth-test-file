@@ -167,7 +167,7 @@
 
     <script type="text/javascript">
         if (typeof SNI == 'object' && SNI.WURFL) {
-            SNI.WURFL.updateLayout('http://chinese.food.com/rzfoodservices/web/device-info/getDeviceInfo');
+            SNI.WURFL.updateLayout('http://www.food.com/rzfoodservices/web/device-info/getDeviceInfo');
         }
     </script>
     
@@ -183,7 +183,7 @@
 
     <script type="text/javascript">
 
-    mdManager.addParameter('adkey1', 'QUICK_AND_EASY');
+    mdManager.addParameter('adkey1', 'COMFORT_FOOD');
 
     mdManager.addParameter('adkey2', '');
 
@@ -191,11 +191,11 @@
 
     mdManager.addParameter('Classification', 'RECIPES,RECIPES,FOODCOM');
 
-    mdManager.addParameter('ingredients', 'Chinese five spice powder,fresh garlic cloves,fresh ginger,hoisin sauce,red food coloring,sherry wine,soy sauce,sugar');
+    mdManager.addParameter('ingredients', 'black pepper,bok choy,chicken broth,garlic cloves,ginger,ground pork,mushroom soy sauce,peanut oil,red onions,sesame oil,water chestnuts');
 
-    mdManager.addParameter('keywordids', '12,15,16,110,116,141,252,469');
+    mdManager.addParameter('keywordids', '12,15,16,17,110,282,455,475');
 
-    mdManager.addParameter('keywords', 'time_to_make,cuisine,preparation,asian,chinese,easy,dietary,3_steps_or_less');
+    mdManager.addParameter('keywords', 'time_to_make,cuisine,preparation,occasion,asian,comfort_food,taste_mood,4_hours_or_less');
 
     mdManager.addParameter('SctnDspName', 'RECIPES');
 
@@ -205,16 +205,16 @@
 
     mdManager.addParameter('type', 'RECIPE');
 
-    mdManager.addParameter('UniqueId', '1-128611-recipe');
+    mdManager.addParameter('UniqueId', '1-118618-recipe');
 
-    mdManager.addParameter('Subdomain', 'chinese');
+    mdManager.addParameter('Subdomain', '');
 
-    mdManager.addParameter('Url', 'http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611');
+    mdManager.addParameter('Url', 'http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618');
 
-    mdManager.addParameter('Title', 'Chinese Barbecue Sauce Recipe - Chinese.Food.com');
+    mdManager.addParameter('Title', 'Lions Head Meatballs..chinese Comfort Food Recipe - Food.com');
 
     //initialize with emptyString to make sure the Sifer Object initialized no matter what we have in the request.
-    SNI.RZ.Sifter.sifter_urlParams = "key=chinese-barbecue-sauce-128611&layout=desktop";
+    SNI.RZ.Sifter.sifter_urlParams = "key=lions-head-meatballs-chinese-comfort-food-118618&layout=desktop";
 
     try{ mdManager.addParameter("PrepTime", "15"); }catch(e) {}
 
@@ -228,9 +228,9 @@
         }
         //initialize with emptyString to make sure the Sifer Object initialized no matter what we have in the request.
 
-        SNI.RZ.Sifter.sifter_urlParams = "key=chinese-barbecue-sauce-128611&layout=desktop";
+        SNI.RZ.Sifter.sifter_urlParams = "key=lions-head-meatballs-chinese-comfort-food-118618&layout=desktop";
         
-         mdManager.addParameter("recipeSifter", "hinese-barbecue-sauce-128611&layout=desktop");
+         mdManager.addParameter("recipeSifter", "ions-head-meatballs-chinese-comfort-food-118618&layout=desktop");
         
         /*
         TAB NAME ::: null
@@ -287,7 +287,7 @@
         var adManager = new AdManager();
         initAdManager(adManager, mdManager);
 
-        var g_adkeyword="Chinese Barbecue Sauce Recipe - Chinese.Food.com";
+        var g_adkeyword="Lions Head Meatballs..chinese Comfort Food Recipe - Food.com";
         var g_aduniqueid = '';
         var g_recipesource= '';
     </script>
@@ -297,18 +297,18 @@
 
     
 
-    <title>Chinese Barbecue Sauce Recipe - Chinese.Food.com</title>
+    <title>SAMPLE DEPTH TEST FILE - Food.com</title>
 
-    <meta name="keywords" lang="en" content="fresh garlic cloves,fresh ginger,hoisin sauce,sherry wine,soy sauce,sugar,Chinese five spice powder,red food coloring recipe, recipes, recipies"/>
-    <meta name="description" lang="en" content="This is the exact sauce that you use when you want some real Chinese ribs. Also can be used as a marinade for boneless pork, which goes PERFECTLY in roast pork fried rice!"/>
+    <meta name="keywords" lang="en" content="ground pork,red onions,garlic cloves,ginger,water chestnuts,mushroom soy sauce,sesame oil,chicken broth,peanut oil,bok choy,black pepper recipe, recipes, recipies,time-to-make,cuisine,preparation,occasion,asian,comfort-food,taste-mood,4-hours-or-less"/>
+    <meta name="description" lang="en" content="These are great...can be served on rice with some light soy sauce and sesame oil to season..also like a soup"/>
 
      
-    <link rel="canonical" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611"/>
+    <link rel="canonical" href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618"/>
     
     <link rel="publisher" href="https://plus.google.com/117908044835237955765" />
 
     
-    <link rel="image_src" href="http://img.sndimg.com/food/image/upload/w_614,h_461/v1/img/recipes/12/86/11/picw2kMZl.jpg" />
+    <link rel="image_src" href="http://img.food.com/fdc/img/FDC_share-logo.png" />
 
     
     <meta property="fb:app_id" content="293868454060703" />
@@ -317,10 +317,10 @@
     
     
     
-    <meta property="og:title" content="Chinese Barbecue Sauce" />    
-    <meta property="og:url" content="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611" />
-    <meta property="og:description" content="This is the exact sauce that you use when you want some real Chinese ribs. Also can be used as a marinade for boneless pork, which goes PERFECTLY in roast pork fried rice!" />
-    <meta property="og:image" content="http://img.sndimg.com/food/image/upload/w_614,h_461/v1/img/recipes/12/86/11/picw2kMZl.jpg"/>
+    <meta property="og:title" content="Lion's Head Meatballs..chinese Comfort Food" />    
+    <meta property="og:url" content="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618" />
+    <meta property="og:description" content="These are great...can be served on rice with some light soy sauce and sesame oil to season..also like a soup" />
+    <meta property="og:image" content="http://img.food.com/fdc/img/FDC_share-logo.png"/>
     
 </head>
 <body onload="javascript: try{document.getElementById('cmt_txt').focus();}catch(e){}">
@@ -593,7 +593,32 @@
                 </ul>
                 
             </section>
-
+        
+            <section class="dpdwn-mod">
+                <h3>Popular Now</h3>
+                <ul>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/meatloaf-yes-virginia-there-is-a-great-meatloaf-54257" rev="whats_new" rel="gh-t1-2-5">Our #1 Meatloaf Recipe</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/loaded-potato-and-buffalo-chicken-casserole-493413" rev="whats_new" rel="gh-t1-2-6">Loaded Potato & Buffalo Chicken Casserole</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://dessert.food.com/recipe/better-than-robert-redford-221275" rev="whats_new" rel="gh-t1-2-7">Better Than Robert Redford</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/microwave-chocolate-mug-brownie-349246" rev="whats_new" rel="gh-t1-2-8">Brownie in a Mug</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipes/vegetarian" rev="whats_new" rel="gh-t1-2-9">Vegetarian Recipes</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/best-oatmeal-cookies-54351" rev="whats_new" rel="gh-t1-2-10">Best Oatmeal Cookies</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/low-slow-oven-baked-ribs-super-simple-303245" rev="whats_new" rel="gh-t1-2-11">Low & Slow Baked Ribs</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/petes-scratch-pancakes-5170" rev="whats_new" rel="gh-t1-2-12">Pete's Scratch Pancakes</a></li>
+                
+                    <li><i class="icon-circle"></i><a  href="http://www.food.com/recipe/deviled-eggs-48153" rev="whats_new" rel="gh-t1-2-13">Deviled Egg Recipe</a></li>
+                
+                </ul>
+                
+            </section>
         
     </div>
 
@@ -1212,7 +1237,7 @@ if (typeof SNI_COMMUNITY_SERVICES == 'undefined' || !SNI_COMMUNITY_SERVICES) {
 }
 
 SNI_COMMUNITY_SOCIAL_UPLOAD.APP_KEY = SNI.RZ.SocialUploader.apiKey;
-SNI_COMMUNITY_SERVICES.ASSET_ID = "128611";
+SNI_COMMUNITY_SERVICES.ASSET_ID = "118618";
 SNI_COMMUNITY_SERVICES.ASSET_NAME = "recipe";
 SNI_COMMUNITY_SERVICES.ASSET_TYPE = "recipe";
 SNI_COMMUNITY_SERVICES.SITE_NAME = "fooddotcom";
@@ -1242,16 +1267,15 @@ var form_details = {
 
 <!-- Required for social upload integration -->
 
-<input type="hidden" id="recipeTitleForUpload" name="recipeTitleForUpload" value="ChineseBarbecueSauce"/>
+<input type="hidden" id="recipeTitleForUpload" name="recipeTitleForUpload" value="LionsHeadMeatballschineseComfortFood"/>
 <!-- -------------------- -->
 
-<input type="hidden" id="globalAssetId" value="128611"></input>
+<input type="hidden" id="globalAssetId" value="118618"></input>
 <input type="hidden" id="globalAssetType" value="1"></input>
 
 
 
-<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@c9e0391 -->
-<link rel="stylesheet" href="http://img.food.com/css/photobox.css?v=22">
+<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@a6f66a6 -->
 <link rel="stylesheet" href="http://img.food.com/css/fdc-recipe.css?v=22">
 
 <div id="site-wrapper" class="recipe-details">
@@ -1281,9 +1305,9 @@ var form_details = {
 
         <a href="http://www.food.com">Home</a> /  
 
-        <a href="http://chinese.food.com">Chinese</a> /  
+        <a href="http://www.food.com/recipes/">Recipes</a> /  
 
-    Chinese Barbecue Sauce Recipe
+    Lion's Head Meatballs..chinese Comfort Food Recipe
 
     </div>
     <div id="rz-sitemap">Lost? <a href="http://www.food.com/sitemap.do">Site Map</a></div>
@@ -1295,7 +1319,7 @@ var form_details = {
 </div>
 
     <div id="rz-bd" class="clrfix recipe-detail-page" itemscope itemtype="http://schema.org/Recipe">
-       <span itemprop="url" style="display:none">http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611</span>
+       <span itemprop="url" style="display:none">http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618</span>
         <div id="rz-lead"  class="recipe-info-page clrfix tabby">
                 <div class="leady-hd rz-rec clrfix">
                     
@@ -1303,11 +1327,11 @@ var form_details = {
 
 
                     <span class="item">
-                        <h1 class="fn"  itemprop="name">Chinese Barbecue Sauce</h1>
+                        <h1 class="fn"  itemprop="name">Lion's Head Meatballs..chinese Comfort Food</h1>
                     </span>
 
                     <div class="recipe-user">
-                        <a href="http://share.food.com/community/javagirl81/style.esi?member_id=225837"><img src="http://share.recipezaar.com/skins/main/images/profilephotolookup/21_square.gif" alt="" width="48" height="48" /></a>
+                        <a href="http://share.food.com/community/grandma2969/style.esi?member_id=69474"><img src="http://picklemedia1.scrippsnetworks.com/pickle_media1/media/rz_migration/69/Photo_Video_69474_square.jpg" alt="" width="48" height="48" /></a>
 
                         <div class="user-info clrfix">
 
@@ -1315,7 +1339,7 @@ var form_details = {
                                 <p class="un">
                                         By
                                     <span class="author ">
-                                        <a class="url fn" href="http://share.food.com/community/javagirl81/style.esi?member_id=225837"><span itemprop="author">javagirl81</span></a>
+                                        <a class="url fn" href="http://share.food.com/community/grandma2969/style.esi?member_id=69474"><span itemprop="author">grandma2969</span></a>
                                     </span>
                                 </p>
                                 <!-- <dl id="userflyoutLead1" class="fsm custom-dd">
@@ -1333,12 +1357,12 @@ var form_details = {
 		<a class="close"></a>
 		<h3>Select One</h3>
 		<ul class="fly-ul">
-			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=225837" class="contact_this_chef">Contact This Chef</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/javagirl81/style.esi?member_id=225837">Chef's Page</a></li>
-			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=225837">Chef's Recipes</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/javagirl81/portfolio.esi?member_id=225837">Chef's Photos</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/javagirl81/reviews.esi?member_id=225837">Chef's Reviews</a></li>
-			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_225837">Add to Favorites </a></li>
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=69474" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/grandma2969/style.esi?member_id=69474">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=69474">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/grandma2969/portfolio.esi?member_id=69474">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/grandma2969/reviews.esi?member_id=69474">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_69474">Add to Favorites </a></li>
 		</ul>
 	</div>
 	<div class="fly-ft"></div>
@@ -1348,18 +1372,18 @@ var form_details = {
                             </div>
 
                             <div class="addedwhen clrfix">
-                                <p>Added <meta itemprop="datePublished" content="July 04, 2005">July 04, 2005 | Recipe #128611</p>
+                                <p>Added <meta itemprop="datePublished" content="April 22, 2005">April 22, 2005 | Recipe #118618</p>
                             </div>
 
                             <div>
                                 <p class="recipe-cats">
                                     Categories:
                                     
-                                    <a href="http://Chinese.food.com/"><span itemprop="recipeCategory">Chinese</span></a>
-                                    
                                     <a href="http://www.food.com/recipes/asian"><span itemprop="recipeCategory">Asian</span></a>
                                     
-                                    <a href="http://www.food.com/recipes/3-steps-or-less"><span itemprop="recipeCategory">3 steps or less</span></a>
+                                    <a href="http://www.food.com/recipes/taste-mood"><span itemprop="recipeCategory">Taste/mood</span></a>
+                                    
+                                    <a href="http://www.food.com/recipes/4-hours-or-less"><span itemprop="recipeCategory">< 4 hours</span></a>
                                     
                                 </p>
                                 
@@ -1371,8 +1395,6 @@ var form_details = {
                                             <ul id="recipe-filedin">
                                             
                                                 <li><a href="http://www.food.com/recipes/time-to-make"><span itemprop="recipeCategory">Time to make</span></a></li>
-                                            
-                                                <li><a href="http://www.food.com/recipes/easy"><span itemprop="recipeCategory">Easy</span></a></li>
                                             
                                             </ul>
                                         </div>
@@ -1394,18 +1416,18 @@ var form_details = {
 
 <ul class="tab-nav">
     <li class="btn-tab  active ">
-    	<a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611"><span>Recipe</span></a>
+    	<a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618"><span>Recipe</span></a>
     </li>
     
     <li class="btn-tab ">
-    	<a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review"><span>Ratings &amp; Reviews<em>(5)</em></span></a>
+    	<a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618/review"><span>Ratings &amp; Reviews<em>(1)</em></span></a>
     </li>
     
     <li  class="btn-tab tab-photos ">
-    	<a data-slidepos="0" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/photo"><span>Photos<em>(1)</em></span></a>
+    	<a data-slidepos="0" href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618/photo"><span>Photos<em>(0)</em></span></a>
     </li>
 </ul>
-<!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@c9e0391 -->
+<!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@a6f66a6 -->
 
                     
 
@@ -1433,34 +1455,16 @@ var form_details = {
                     To match formatting of different image sizes - the image height and width need to be added as inline CSS on the following DIV
                     //-->
                     
-
-                    <div class="recipe-photo-bd bd">
-                        <div id="enlrphoto" class="imgCont">
-                            <div data-slidepos="0" style="cursor:pointer" class="open"></div>
-                            <img id="i326866" class="smallPageImage photo" itemprop="image" src="http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/12/86/11/picw2kMZl.jpg" title="Chinese Barbecue Sauce. Photo by foodies415" alt="Chinese Barbecue Sauce. Photo by foodies415">
-                            <div class="photolink">
-                                <p>Photo by <a class="ellipsis" href="http://share.food.com/community/foodies415/style.esi?member_id=2644775">foodies415</a></p>
+                        <div class="bd recipe-photo-bd no-photo">
+                            <a class="fdc-social-uploader" href="#" data-su-pick-options='{"multiple":true, "maxFiles": 5}' data-su-asset-meta-data='{ "asset_id" : "118618", "asset_type": "recipe", "asset_name": "LionsHeadMeatballschineseComfortFood" }'><p class="ir">This recipe has no photos</p></a>
+                        </div>
+                        <div class="recipe-photo-ft ft clrfix">
+                            <div class="action-buttons">
+                                <button id="addurPhotoSingle" class="btn btn-small fdc-social-uploader" value="Add your Photos" data-su-pick-options='{"multiple":true, "maxFiles": 5}' data-su-asset-meta-data='{ "asset_id" : "118618", "asset_type": "recipe", "asset_name": "LionsHeadMeatballschineseComfortFood" }'>
+                                    <i class="icon-upload-alt"></i>Add Your Photos
+                                </button>
                             </div>
                         </div>
-                    </div>
-                    <div class="recipe-photo-ft ft clrfix">
-                    
-                        <p class="photo-desc"><span class="photo-count">1/1 Photo</span> of Chinese Barbecue Sauce</p>
-                        
-                        <div class="action-buttons">
-
-                            <!--  <input type="button" id="fileSelectBtn" class="btn btn-small fdc-social-uploader" value="Add your Photos" onclick="javascript:uploadFile();"/> -->
-                            <button id="fileSelectBtn" class="btn btn-small fdc-social-uploader" data-su-pick-options='{"multiple":true, "maxFiles": 5}' data-su-asset-meta-data='{ "asset_id" : "128611", "asset_type": "recipe", "asset_name": "ChineseBarbecueSauce" }'>
-                                <i class="icon-upload-alt"></i>Add Your Photos
-                            </button>
-                            
-                            
-                        </div>
-                    </div>
-                    <div id="recipe-photo-gallery-list" class="visuallyhidden">
-                        <img id="i326866" src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/12/86/11/picw2kMZl.jpg" alt="Chinese Barbecue Sauce" data-creator="foodies415" data-creatorURL="http://share.food.com/community/foodies415/style.esi?member_id=2644775">
-
-                    </div>
                     
                 </div>
 
@@ -1470,10 +1474,10 @@ var form_details = {
 
                 <script type="text/javascript">
                     
-                                    var pinterestDefaultPhoto = 'http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/12/86/11/picw2kMZl.jpg';
-                                    var pinterestPhoto = 'http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/12/86/11/picw2kMZl.jpg';
-                                    var pinterestUrl = 'http%3A%2F%2Fchinese.food.com%2Frecipe%2Fchinese-barbecue-sauce-128611';
-                                    var pinterestDescr = 'Chinese+Barbecue+Sauce' + '%20Recipes';
+                                    var pinterestDefaultPhoto = 'http://img.food.com/fdc/img/FDC_share-logo.png';
+                                    var pinterestPhoto = 'http://img.food.com/fdc/img/FDC_share-logo.png';
+                                    var pinterestUrl = 'http%3A%2F%2Fwww.food.com%2Frecipe%2Flions-head-meatballs-chinese-comfort-food-118618';
+                                    var pinterestDescr = 'Lion%27s+Head+Meatballs..chinese+Comfort+Food' + '%20Recipes';
                 </script>
 
                 
@@ -1484,22 +1488,22 @@ var form_details = {
                         <span class="review ">
                             <span class="rating">
                                 <span class="average">
-                                    <span class="value-title" title="5.0" > </span>
+                                    <span class="value-title" title="2.0" > </span>
                                 </span>
                                 <span class="count">
-                                    <span class="value-title" title="5"></span>
+                                    <span class="value-title" title="1"></span>
                                 </span>
-                                <span itemprop="ratingValue" style = "display:none">5.0</span>
-                                <span itemprop="reviewCount" style = "display:none">5</span>
+                                <span itemprop="ratingValue" style = "display:none">2.0</span>
+                                <span itemprop="reviewCount" style = "display:none">1</span>
                             </span>
                         </span>
                         <span class="inline-rating">
                             <ul class="star-rating">
-                                <li class="current-rating" style="width: 100.00%;"></li>
+                                <li class="current-rating" style="width: 40.00%;"></li>
                             </ul>
                         </span>
                         
-                        <p class="rating-txt"><span><span id="rz-rate-it"><a id="ratid" href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review#rz-w" rel="rateit">Rate it!</a></span> | <a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review" id="readthereview" rel="redrvl">Read 5 Reviews</a></span></p>
+                        <p class="rating-txt"><span><span id="rz-rate-it"><a id="ratid" href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618/review#rz-w" rel="rateit">Rate it!</a></span> | <a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618/review" id="readthereview" rel="redrvl">Read 1 Reviews</a></span></p>
                     </div>
                     
                     <div class="ckTime clrfix">
@@ -1509,9 +1513,9 @@ var form_details = {
                             <p>Cook Time:</p>
                         </div>
                         <div class="ct-e">
-                            <h3 class="duration"><meta itemprop="totalTime" content = "PT4H15M">4 hrs 15 mins<span class="value-title" title="PT4H15M"></span></h3>
+                            <h3 class="duration"><meta itemprop="totalTime" content = "PT1H15M">1 hr 15 mins<span class="value-title" title="PT1H15M"></span></h3>
                             <p class="preptime"><meta itemprop="prepTime" content="PT15M">15 mins<span class="value-title" title="PT15M"></span></p>
-                            <p class="cooktime"><meta itemprop="cookTime" content="PT4H"> 4 hrs <span class="value-title" title="PT4H"></span></p>
+                            <p class="cooktime"><meta itemprop="cookTime" content="PT1H"> 1 hr <span class="value-title" title="PT1H"></span></p>
                         </div>
                     </div>
 
@@ -1519,9 +1523,9 @@ var form_details = {
                     <div class="userNoteCont clrfix">
                         <div class="userNote clrfix">
                             <em></em>
-                            <h4><a href="http://share.food.com/community/javagirl81/style.esi?member_id=225837">javagirl81</a>'s Note:</h4>
+                            <h4><a href="http://share.food.com/community/grandma2969/style.esi?member_id=69474">grandma2969</a>'s Note:</h4>
                             <p class="userclsnote" id="usertextnote"  itemprop="description">
-                                This is the exact sauce that you use when you want some real Chinese ribs. Also can be used as a marinade for boneless pork, which goes PERFECTLY in roast pork fried rice!
+                                These are great...can be served on rice with some light soy sauce and sesame oil to season..also like a soup
                             </p>
                             <div class="end-quote"></div>
                         </div>
@@ -1585,7 +1589,7 @@ var form_details = {
                             <i class="icon-caret-left"></i>
                             <div class="modal hide in" id="email-modal">
                                 <header class="hr">
-                                    <p>Chinese Barbecue Sauce</p>
+                                    <p>Lion's Head Meatballs..chinese Comfort Food</p>
                                 </header>
                                 <fieldset class="modal-body">
                                     <label for="fromemail">
@@ -1608,7 +1612,7 @@ var form_details = {
                                 </div>
                                 <div class="modal-footer">
                                     <span>*required</span>
-                                    <div class="buttondiv"><button id="submit-req" class="btn vip" onclick="subMitEmailForm(128611)">Send</button></div>
+                                    <div class="buttondiv"><button id="submit-req" class="btn vip" onclick="subMitEmailForm(118618)">Send</button></div>
                                 </div>
                                 <div class="success-message"></div>
 
@@ -1648,7 +1652,7 @@ var form_details = {
     <script language="javascript">
 
         SNI.RZ.Recipe.servingConfig = {
-            url: "http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611?",
+            url: "http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618?",
             mode: "null"
         };
 
@@ -1663,7 +1667,7 @@ var form_details = {
             
             <p>Servings:</p>
             
-            <input type="hidden" id="original_value" value="4-5 ">
+            <input type="hidden" id="original_value" value="4">
             <select name="servingssize" id="servingssize" class="fsm" onchange="setServing(this)">
                 <option class="select-title">Servings</option>
                 <option selected="selected" value="4 ">4</option>
@@ -1678,7 +1682,7 @@ var form_details = {
             </div>
         </div>
         <div class="section clrfix units">
-            <div class="part"><p>Units:  US  |  <a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611?mode=metric&scaleto=4.0&st=null">Metric</a></p></div>
+            <div class="part"><p>Units:  US  |  <a href="http://www.food.com/recipe/lions-head-meatballs-chinese-comfort-food-118618?mode=metric&scaleto=4.0&st=null">Metric</a></p></div>
         </div>
         </div>
 
@@ -1688,11 +1692,11 @@ var form_details = {
 
             <ul>
                             <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">5 -6 </span> <span class="type"></span></span> 
+                            <span class="ingredient"><span class="amount"><span class="value">26 </span> <span class="type">ounces</span></span> 
                             <span class="name">
-                            minced 
+                             
                             
-                                <a href="http://www.food.com/library/garlic-165">fresh garlic cloves</a>
+                                <a href="http://www.food.com/library/pork-282">ground pork</a>
                             
                             
                             </span>
@@ -1701,11 +1705,85 @@ var form_details = {
                             </li>
                             
                             <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">piece</span></span> 
+                            <span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">cup</span></span> 
+                            <span class="name">
+                            chopped 
+                            
+                                <a href="http://www.food.com/library/onion-148">red onion</a>
+                            
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">4 </span> <span class="type"></span></span> 
+                            <span class="name">
+                            chopped 
+                            
+                                <a href="http://www.food.com/library/garlic-165">garlic cloves</a>
+                            
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">tablespoon</span></span> 
+                            <span class="name">
+                            chopped 
+                            
+                                <a href="http://www.food.com/library/ginger-166">ginger</a>
+                            
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">1</span> <span class="type">(6  ounce)</span></span> can
                             <span class="name">
                              
                             
-                                <a href="http://www.food.com/library/ginger-166">fresh ginger</a>, minced
+                                <a href="http://www.food.com/library/water-chestnut-510">water chestnuts</a>, chopped
+                            
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">tablespoons</span></span> 
+                            <span class="name">
+                             
+                            mushroom soy sauce
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">teaspoons</span></span> 
+                            <span class="name">
+                             
+                            sesame oil
+                            
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">4 </span> <span class="type">cups</span></span> 
+                            <span class="name">
+                             
+                            
+                                <a href="http://www.food.com/library/broth-154">chicken broth</a>
                             
                             
                             </span>
@@ -1717,8 +1795,19 @@ var form_details = {
                             <span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">cup</span></span> 
                             <span class="name">
                              
+                            peanut oil
                             
-                                <a href="http://www.food.com/library/hoisin-sauce-29">hoisin sauce</a>
+                            </span>
+                            
+                            </span>
+                            </li>
+                            
+                            <li class="ingredient"  itemprop="ingredients">
+                            <span class="ingredient"><span class="amount"><span class="value">4 </span> <span class="type">whole</span></span> 
+                            <span class="name">
+                             
+                            
+                                <a href="http://www.food.com/library/bok-choy-11">bok choy</a>, may use Chinese cabbage
                             
                             
                             </span>
@@ -1727,63 +1816,12 @@ var form_details = {
                             </li>
                             
                             <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">1/2</span> <span class="type">cup</span></span> 
+                            
                             <span class="name">
                              
                             
-                                <a href="http://www.food.com/library/sherry-388">sherry wine</a>
+                                <a href="http://www.food.com/library/pepper-337">black pepper</a>
                             
-                            
-                            </span>
-                            
-                            </span>
-                            </li>
-                            
-                            <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">1/2</span> <span class="type">cup</span></span> 
-                            <span class="name">
-                             
-                            
-                                <a href="http://www.food.com/library/soy-sauce-473">soy sauce</a>
-                            
-                             (low-sodium works too-)
-                            
-                            </span>
-                            
-                            </span>
-                            </li>
-                            
-                            <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">1/2</span> <span class="type">cup</span></span> 
-                            <span class="name">
-                             
-                            
-                                <a href="http://www.food.com/library/sugar-139">sugar</a>
-                            
-                            
-                            </span>
-                            
-                            </span>
-                            </li>
-                            
-                            <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">1/2</span> <span class="type">teaspoon</span></span> 
-                            <span class="name">
-                             
-                            
-                                <a href="http://www.food.com/library/five-spice-powder-440">Chinese five spice powder</a>
-                            
-                            
-                            </span>
-                            
-                            </span>
-                            </li>
-                            
-                            <li class="ingredient"  itemprop="ingredients">
-                            <span class="ingredient"><span class="amount"><span class="value">3 </span> <span class="type">teaspoons</span></span> 
-                            <span class="name">
-                             
-                            red food coloring
                             
                             </span>
                             
@@ -1812,11 +1850,28 @@ var form_details = {
 	<span class="instructions"  itemprop="recipeInstructions">
 	<ol>
 		
-			<li><div class="num">1</div> <div class="txt">Mix all ingredients in a bowl,( or a jar with a tight fitting lid), until the sugar is dissolved. Refrigerate until you are ready to use it.</div></li>
+			<li><div class="num">1</div> <div class="txt">Combine pork, onion, garlic, ginger and chopped water chestnuts together in a large mixing bowl.
+</div></li>
 		
-			<li><div class="num">2</div> <div class="txt">*You can set aside some for use as a dipping sauce, but you must first bring it to a full rolling boil, over med. heat, then reduce the heat to low, and simmer until it is thick, and slightly reduced.</div></li>
+			<li><div class="num">2</div> <div class="txt">Add the soy and sesame oil and mix well to combine.
+</div></li>
 		
-			<li><div class="num">3</div> <div class="txt">**When you are ready to cook, marinate meat for 4-24 hours, turning once every two hours. You then grill or broil the meat until it is cooked through,(and slightly charred- this adds to the flavor!).</div></li>
+			<li><div class="num">3</div> <div class="txt">Shape into small balls, about the size of a golfball.
+</div></li>
+		
+			<li><div class="num">4</div> <div class="txt">Roll in a little flour to bind.
+</div></li>
+		
+			<li><div class="num">5</div> <div class="txt">Stir fry balls in a wok with a little peanut or vegetable till brown, but not completely cooked.
+</div></li>
+		
+			<li><div class="num">6</div> <div class="txt">Heat chicken broth in a seperate saucepan or stock pot.bring to a simmer, and add browned pork balls to stock and simmer 1 hour.
+</div></li>
+		
+			<li><div class="num">7</div> <div class="txt">Add washed and cut bok choy.about the last 10 minutes to cook tender crisp.
+</div></li>
+		
+			<li><div class="num">8</div> <div class="txt">Serve with steamed rice with some light soy sauce and sesame oil to season.</div></li>
 		
 	</ol>
 	</span>
@@ -1830,7 +1885,7 @@ var form_details = {
                         <div class="section">
                             <ul class="print-view clrfix">
                                 <li id="view-fs-bottom" class="even">
-                                    <a id="viewfs-bottom" data-attr-recipe-id="128611" href="#" onclick="window.open('http://www.food.com/recipefullpage.do?rid=128611','_blank','menubar=1,resizable=1,titlebar=1,toolbar=1,location=1,status=1,scrollbars=1')" class="button" rel="rt-1" target="_top"><i class="icon-fullscreen"></i>Full Screen</a>
+                                    <a id="viewfs-bottom" data-attr-recipe-id="118618" href="#" onclick="window.open('http://www.food.com/recipefullpage.do?rid=118618','_blank','menubar=1,resizable=1,titlebar=1,toolbar=1,location=1,status=1,scrollbars=1')" class="button" rel="rt-1" target="_top"><i class="icon-fullscreen"></i>Full Screen</a>
                                 </li>
                             </ul>
                         </div>
@@ -1843,7 +1898,7 @@ var form_details = {
                     <div class="pod Pcorrections">
                     <ul>
                         <li id="submit-correction" class="last lastSubmit">
-                            <a id="subycorr" href="http://www.food.com/tests/data/edit.php?rid=128611" class="sac" rel="rt-2">Submit a Correction</a>
+                            <a id="subycorr" href="http://www.food.com/recipe/edit.php?rid=118618" class="sac" rel="rt-2">Submit a Correction</a>
                         </li>                        
                         </ul>
                     </div>
@@ -1901,6 +1956,75 @@ $(document).ready(function(){
 
 
 
+<h2 class="hd">Browse Our Top <a id="brtoprec" href="http://www.food.com/recipes/asian">Asian</a> Recipes</h2>
+    <ul class="colList clrfix" id ="bmrec">
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/food-for-the-gods-walnut-and-date-bar-443597" rel="bmr-0"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/44/35/97/picC3Of9d.jpg" title="Food for the Gods (Walnut and Date Bar). Recipe by josehon" alt="Food for the Gods (Walnut and Date Bar). Recipe by josehon"/></a>
+                	<p><a href="http://www.food.com/recipe/food-for-the-gods-walnut-and-date-bar-443597" rel="bmr-0">Food for the Gods (Walnut and Date Bar)</a></p>
+                  <small>By josehon</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 100.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://australian.food.com/recipe/food-safaris-tandoori-chicken-278950" rel="bmr-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/27/89/50/pickeThTn.jpg" title="Food Safari&#39;s Tandoori Chicken. Recipe by Chef floWer" alt="Food Safari&#39;s Tandoori Chicken. Recipe by Chef floWer"/></a>
+                	<p><a href="http://australian.food.com/recipe/food-safaris-tandoori-chicken-278950" rel="bmr-1">Food Safari's Tandoori Chicken</a></p>
+                  <small>By Chef floWer</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 96.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/whole-foods-chickpea-masala-65619" rel="bmr-2"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/65/61/9/piczWIvMj.jpg" title="Whole Foods Chickpea Masala. Recipe by love4culinary" alt="Whole Foods Chickpea Masala. Recipe by love4culinary"/></a>
+                	<p><a href="http://www.food.com/recipe/whole-foods-chickpea-masala-65619" rel="bmr-2">Whole Foods Chickpea Masala</a></p>
+                  <small>By love4culinary</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 96.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466" rel="bmr-3"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/82/46/6/picVpoofU.jpg" title="Korean Beef Noodles (Seoul Food). Recipe by Sue Lau" alt="Korean Beef Noodles (Seoul Food). Recipe by Sue Lau"/></a>
+                	<p><a href="http://www.food.com/recipe/korean-beef-noodles-seoul-food-82466" rel="bmr-3">Korean Beef Noodles (Seoul Food)</a></p>
+                  <small>By Sue Lau</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 95.60%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+    </ul>
+
+                </div>
+
+                <div style="clear:both">
+                    
+
+
+
+
+
+
+				
+
 
 <script language="javascript">
     SNI.RZ.Recipe.commentsConfig = {
@@ -1921,13 +2045,13 @@ $(document).ready(function(){
 	
 		<li class="clrfix" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
 			<div class="rz-w">
-				<a href="http://share.food.com/community/dustinhunt78/style.esi?member_id=1651124"><img src="http://share.recipezaar.com/skins/main/images/profilephotolookup/21_square.gif" alt="" width="48" height="48" /></a>
+				<a href="http://share.food.com/community/haahaahaa98/style.esi?member_id=386471"><img src="http://img.sndimg.com/food/image/upload/h_120,w_160,c_fill,q_92/v1/avatars/21_square.gif" alt="" width="48" height="48" /></a>
 				
 
 				<div class="about-recipe-info">
 					<div class="user-info clrfix">
 						<meta itemprop="about" content="this is required"</meta>
-						<p>By <a href="http://share.food.com/community/dustinhunt78/style.esi?member_id=1651124"><span itemprop="author">dustinhunt78</span></a></p>
+						<p>By <a href="http://share.food.com/community/haahaahaa98/style.esi?member_id=386471"><span itemprop="author">haahaahaa98</span></a></p>
 						<!-- <dl class="fsm" id="aboutRnR0">
 							
 
@@ -1943,12 +2067,12 @@ $(document).ready(function(){
 		<a class="close"></a>
 		<h3>Select One</h3>
 		<ul class="fly-ul">
-			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=1651124" class="contact_this_chef">Contact This Chef</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=1651124">Chef's Page</a></li>
-			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=1651124">Chef's Recipes</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=1651124">Chef's Photos</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=1651124">Chef's Reviews</a></li>
-			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_1651124">Add to Favorites </a></li>
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=386471" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=386471">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=386471">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=386471">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=386471">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_386471">Add to Favorites </a></li>
 		</ul>
 	</div>
 	<div class="fly-ft"></div>
@@ -1956,10 +2080,10 @@ $(document).ready(function(){
 
 						</dl>
 						<script type="text/javascript" charset="utf-8">
-							SNI.RZ.CustomDropdown.init('#aboutRnR0', { recipeId: 128611 });
+							SNI.RZ.CustomDropdown.init('#aboutRnR0', { recipeId: 118618 });
 						</script> -->
 					</div>	
-					<p>on <meta itemprop="datePublished" content="July 11, 2010">July 11, 2010</p>
+					<p>on <meta itemprop="datePublished" content="March 10, 2008">March 10, 2008</p>
 				</div>
 				
 				
@@ -1972,175 +2096,21 @@ $(document).ready(function(){
 					<div class="arrow"></div>
 					
 					
-						<p class="comment-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue" style="display:none">5</span><span itemprop="bestRating" style="display:none">5</span><span class="rating-sm-5"></span></p>
+						<p class="comment-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue" style="display:none">2</span><span itemprop="bestRating" style="display:none">5</span><span class="rating-sm-2"></span></p>
 					
 					
 					
-						<p><span itemprop="description">This is THE one!  Absolutely PHENOMENAL and tastes just like the dishes you buy in a Chinese restaurant.  Well done!</span></p>
+						<p><span itemprop="description">I didn't get the desired effect when I tried this recipe. I think it's important that the beef be really really ground up; you can't just use the ground beef that you find in the store; you need to take that and then grind it up even more! My result ended up tasting like a slightly fancier boiled pork meatball. I think simmering for 1 hour tends to overcook it. Maybe one needs to use really really low heat. I'll have to try again.</span></p>
 						<div class="end-quote"></div>
-						<small><label id='count_1131601'>1</label> person found this review Helpful.</small>
+						<small><label id='count_595193'>2</label> people found this review Helpful.</small>
 						
-							<small id='was_this_1131601'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_1131601');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_1131601');"><strong>No</strong></a></small>
-							<small style="display:none;" id='we_dont_know_1131601'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
+							<small id='was_this_595193'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_595193');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_595193');"><strong>No</strong></a></small>
+							<small style="display:none;" id='we_dont_know_595193'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
 															
 						
 						<script language="javascript" type="text/javascript">
-							if(cook!=undefined && cook.indexOf("review_0_1131601")!=-1)
-								udateHelpfull("1131601");
-						</script>		
-					
-					
-				</div>
-				<div class="rz-ft"></div>
-			</div>
-		</li>
-	
-		<li class="clrfix" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
-			<div class="rz-w">
-				<a href="http://share.food.com/community/Chef-1376722/style.esi?member_id=1376722"><img src="http://share.recipezaar.com/skins/main/images/profilephotolookup/21_square.gif" alt="" width="48" height="48" /></a>
-				
-
-				<div class="about-recipe-info">
-					<div class="user-info clrfix">
-						<meta itemprop="about" content="this is required"</meta>
-						<p>By <a href="http://share.food.com/community/Chef-1376722/style.esi?member_id=1376722"><span itemprop="author">Chef #1376722</span></a></p>
-						<!-- <dl class="fsm" id="aboutRnR1">
-							
-
-
-
-
-
-
-<dt class="user-click"><a><span></span></a></dt>
-<dd class="flyout fly-dd" id="userFlyout">
-	<div class="fly-hd"></div>
-	<div class="fly-bd">
-		<a class="close"></a>
-		<h3>Select One</h3>
-		<ul class="fly-ul">
-			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=1376722" class="contact_this_chef">Contact This Chef</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=1376722">Chef's Page</a></li>
-			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=1376722">Chef's Recipes</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=1376722">Chef's Photos</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=1376722">Chef's Reviews</a></li>
-			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_1376722">Add to Favorites </a></li>
-		</ul>
-	</div>
-	<div class="fly-ft"></div>
-</dd>
-
-						</dl>
-						<script type="text/javascript" charset="utf-8">
-							SNI.RZ.CustomDropdown.init('#aboutRnR1', { recipeId: 128611 });
-						</script> -->
-					</div>	
-					<p>on <meta itemprop="datePublished" content="September 07, 2009">September 07, 2009</p>
-				</div>
-				
-				
-				
-			
-			</div>
-			<div class="rz-e">
-				<div class="rz-hd"></div>
-				<div class="rz-bd">
-					<div class="arrow"></div>
-					
-					
-						<p class="comment-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue" style="display:none">5</span><span itemprop="bestRating" style="display:none">5</span><span class="rating-sm-5"></span></p>
-					
-					
-					
-						<p><span itemprop="description">I've been looking for a Chinese Spare Rib sauce for a while now and this by far is the best recipe. They taste exactly like Chinese Spar ribs from a restaurant. I must have made these ribs 10 times in 3 months. They are a big hit where ever i go.</span></p>
-						<div class="end-quote"></div>
-						<small><label id='count_942226'>1</label> person found this review Helpful.</small>
-						
-							<small id='was_this_942226'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_942226');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_942226');"><strong>No</strong></a></small>
-							<small style="display:none;" id='we_dont_know_942226'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
-															
-						
-						<script language="javascript" type="text/javascript">
-							if(cook!=undefined && cook.indexOf("review_0_942226")!=-1)
-								udateHelpfull("942226");
-						</script>		
-					
-					
-				</div>
-				<div class="rz-ft"></div>
-			</div>
-		</li>
-	
-		<li class="clrfix" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
-			<div class="rz-w">
-				<a href="http://share.food.com/community/Queen-Dragon-Mom/style.esi?member_id=174711"><img src="http://picklemedia1.scrippsnetworks.com/pickle_media1/media/userphoto/100322/U11873164/Photo_Video_66348268861425619242151_square.jpg" alt="" width="48" height="48" /></a>
-				
-
-				<div class="about-recipe-info">
-					<div class="user-info clrfix">
-						<meta itemprop="about" content="this is required"</meta>
-						<p>By <a href="http://share.food.com/community/Queen-Dragon-Mom/style.esi?member_id=174711"><span itemprop="author">Queen Dragon Mom</span></a></p>
-						<!-- <dl class="fsm" id="aboutRnR2">
-							
-
-
-
-
-
-
-<dt class="user-click"><a><span></span></a></dt>
-<dd class="flyout fly-dd" id="userFlyout">
-	<div class="fly-hd"></div>
-	<div class="fly-bd">
-		<a class="close"></a>
-		<h3>Select One</h3>
-		<ul class="fly-ul">
-			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=174711" class="contact_this_chef">Contact This Chef</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=174711">Chef's Page</a></li>
-			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=174711">Chef's Recipes</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=174711">Chef's Photos</a></li>
-			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=174711">Chef's Reviews</a></li>
-			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_174711">Add to Favorites </a></li>
-		</ul>
-	</div>
-	<div class="fly-ft"></div>
-</dd>
-
-						</dl>
-						<script type="text/javascript" charset="utf-8">
-							SNI.RZ.CustomDropdown.init('#aboutRnR2', { recipeId: 128611 });
-						</script> -->
-					</div>	
-					<p>on <meta itemprop="datePublished" content="March 23, 2008">March 23, 2008</p>
-				</div>
-				
-				
-				
-			
-			</div>
-			<div class="rz-e">
-				<div class="rz-hd"></div>
-				<div class="rz-bd">
-					<div class="arrow"></div>
-					
-					
-						<p class="comment-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue" style="display:none">5</span><span itemprop="bestRating" style="display:none">5</span><span class="rating-sm-5"></span></p>
-					
-					
-					
-						<p><span itemprop="description">I don't very often give 5 stars but this one is getting all of them.
-I have some other Char Sui recipes and am tossing them. Will use this one, exclusively, it is SO darned good.
-Thank you for posting this!</span></p>
-						<div class="end-quote"></div>
-						<small><label id='count_602247'>1</label> person found this review Helpful.</small>
-						
-							<small id='was_this_602247'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_602247');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_602247');"><strong>No</strong></a></small>
-							<small style="display:none;" id='we_dont_know_602247'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
-															
-						
-						<script language="javascript" type="text/javascript">
-							if(cook!=undefined && cook.indexOf("review_0_602247")!=-1)
-								udateHelpfull("602247");
+							if(cook!=undefined && cook.indexOf("review_0_595193")!=-1)
+								udateHelpfull("595193");
 						</script>		
 					
 					
@@ -2151,9 +2121,6 @@ Thank you for posting this!</span></p>
 	
 	</ul>
 	
-	<p class="more"><a href="http://chinese.food.com/tests/data/chinese-barbecue-sauce-128611/review">Read All Reviews (5)</a></p>
-
-
 </div>
 
                 </div>
@@ -2198,10 +2165,10 @@ Thank you for posting this!</span></p>
 							<div class="pod next-recipe clrfix">
 								<h4>You Might Also Like...</h4>
 									<div class="bd clrfix">
-										<a id="nxt-recipe-img" href="javascript:loadNextRecipe('http://www.food.com/tests/data/chinese-barbecue-sauce-425568','425568');" rel="nri-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/42/55/68/pic1GZMnm.jpg" alt="Chinese Barbecue Sauce. Recipe by ElaineAnn" title="Chinese Barbecue Sauce. Recipe by ElaineAnn" width="92" height="69" /></a>
+										<a id="nxt-recipe-img" href="javascript:loadNextRecipe('http://www.food.com/recipe/carrot-casserole-for-two-comfort-food-veggies-253675','253675');" rel="nri-1"><img src="http://img.sndimg.com/food/image/upload/w_98,h_73/v1/img/recipes/25/36/75/picmkAbZw.jpg" alt="Carrot Casserole for Two (Comfort Food Veggies). Recipe by MarraMamba" title="Carrot Casserole for Two (Comfort Food Veggies). Recipe by MarraMamba" width="92" height="69" /></a>
 										<div class="cont">
-											<p><a id="nxt-recipe-txt" href="http://www.food.com/tests/data/chinese-barbecue-sauce-425568" rel="nrt-1">Chinese Barbecue Sauce</a></p>
-											<small>By <a id="nxt-recipe-by" rel="nr-1" href="http://share.food.com/community/ElaineAnn/style.esi?member_id=201581">ElaineAnn</a></small>
+											<p><a id="nxt-recipe-txt" href="http://www.food.com/recipe/carrot-casserole-for-two-comfort-food-veggies-253675" rel="nrt-1">Carrot Casserole for Two (Comfort Food Veggies)</a></p>
+											<small>By <a id="nxt-recipe-by" rel="nr-1" href="http://share.food.com/community/MarraMamba/style.esi?member_id=527607">MarraMamba</a></small>
 											
 											<span class="inline-rating small">
 												<ul class="star-rating">
@@ -2210,17 +2177,17 @@ Thank you for posting this!</span></p>
 											</span>
 											
 										</div>
-										<a id="nxt-recipe" href="javascript:loadNextRecipe('http://www.food.com/tests/data/chinese-barbecue-sauce-425568','425568');" rel="nr-1"><em></em></a>
+										<a id="nxt-recipe" href="javascript:loadNextRecipe('http://www.food.com/recipe/carrot-casserole-for-two-comfort-food-veggies-253675','253675');" rel="nr-1"><em></em></a>
 									</div>
 									
-									<small><a href="http://Chinese.food.com/" id="ViewAllRecipe">View All Chinese Recipes</a></small>
+									<small><a href="http://www.food.com/recipes/asian" id="ViewAllRecipe">View All Asian Recipes</a></small>
 									
 							</div>
 						
 
 
 <form name="nextrecipeform" method="POST">
-<input type="hidden" name="nextrecipeids" id="nextrecipeids" value="128611" />
+<input type="hidden" name="nextrecipeids" id="nextrecipeids" value="118618" />
 <input type="hidden" name="nrf" id="nrf" value="true" />
 </form>
 
@@ -2243,10 +2210,10 @@ Thank you for posting this!</span></p>
 <div class="pod nutrition-facts clrfix">
 	<div class="hd clrfix">
 		<div class="hd nutrition-facts"></div>
-		<h3 class="title">Nutritional Facts for Chinese Barbecue Sauce</h3>
+		<h3 class="title">Nutritional Facts for Lion's Head Meatballs..chinese Comfort Food</h3>
 		<div>
 			<!--<h4></h4>//-->	
-			<p>Serving Size: <span itemprop="recipeYield">1 (127 g)</span></p>
+			<p>Serving Size: <span itemprop="recipeYield">1 (1412 g)</span></p>
 			<p>Servings Per Recipe: 4</p>
 			
 		</div>
@@ -2258,41 +2225,41 @@ Thank you for posting this!</span></p>
 
 			<dd>% Daily Value</dd>
 			
-			<dt class="cals nutrition">Calories <span class="calories"><span itemprop="calories">387.5</span></span></dt>
+			<dt class="cals nutrition">Calories <span class="calories"><span itemprop="calories">1197.0</span></span></dt>
 			<dd class="cals">&nbsp;</dd>
 			
 			
-			<dt class="fat-cals nutrition">Calories from Fat 19</dt>
-			<dd class="fat-cals">15%</dd>
+			<dt class="fat-cals nutrition">Calories from Fat 887</dt>
+			<dd class="fat-cals">74%</dd>
 			
-			<dt class="sub nutrition">Total Fat <span class="value"><span class="fat"><span itemprop="fatContent">2.2</span></span></span><span class="type"> g</span></dt>
+			<dt class="sub nutrition">Total Fat <span class="value"><span class="fat"><span itemprop="fatContent">98.5</span></span></span><span class="type"> g</span></dt>
 
-			<dd class="sub">3%</dd>
+			<dd class="sub">151%</dd>
 			
-			<dt class="sub nutrition">Saturated Fat <span class="value"><span class="saturatedFat"><span itemprop="saturatedFatContent">0.3</span></span></span><span class="type"> g</span></dt>
+			<dt class="sub nutrition">Saturated Fat <span class="value"><span class="saturatedFat"><span itemprop="saturatedFatContent">24.6</span></span></span><span class="type"> g</span></dt>
 
-			<dd class="sub">1%</dd>
+			<dd class="sub">123%</dd>
 			
-			<dt class="nutrition">Cholesterol <span class="value"><span class="cholesterol"><span itemprop="cholesterolContent">1.9</span></span></span><span class="type"> mg</span></dt>
+			<dt class="nutrition">Cholesterol <span class="value"><span class="cholesterol"><span itemprop="cholesterolContent">132.9</span></span></span><span class="type"> mg</span></dt>
 
-			<dd>0%</dd>
+			<dd>44%</dd>
 			
-			<dt class="nutrition">Sodium <span class="value"><span itemprop="sodiumContent">3052.8</span></span><span class="type"> mg</span></dt>
-			<dd>127%</dd>
+			<dt class="nutrition">Sodium <span class="value"><span itemprop="sodiumContent">1404.4</span></span><span class="type"> mg</span></dt>
+			<dd>58%</dd>
 			
-			<dt class="nutrition">Total Carbohydrate <span class="value"><span class="carbohydrates"><span itemprop="carbohydrateContent">60.4</span></span></span><span class="type"> g</span></dt>
+			<dt class="nutrition">Total Carbohydrate <span class="value"><span class="carbohydrates"><span itemprop="carbohydrateContent">35.0</span></span></span><span class="type"> g</span></dt>
 
-			<dd>20%</dd>
+			<dd>11%</dd>
 			
-			<dt class="sub nutrition">Dietary Fiber <span class="value"><span class="fiber"><span itemprop="fiberContent">2.1</span></span></span><span class="type"> g</span></dt>
-			<dd class="sub">8%</dd>
+			<dt class="sub nutrition">Dietary Fiber <span class="value"><span class="fiber"><span itemprop="fiberContent">10.6</span></span></span><span class="type"> g</span></dt>
+			<dd class="sub">42%</dd>
 			
-			<dt class="sub nutrition">Sugars <span class="value"><span class="fiber"><span itemprop="sugarContent">44.2</span></span></span><span class="type"> g</span></dt>
-			<dd class="sub">176%</dd> 
+			<dt class="sub nutrition">Sugars <span class="value"><span class="fiber"><span itemprop="sugarContent">14.4</span></span></span><span class="type"> g</span></dt>
+			<dd class="sub">57%</dd> 
 			
-			<dt class="last nutrition">Protein <span class="value"><span class="protein"><span itemprop="proteinContent">6.2</span></span></span><span class="type"> g</span></dt>
+			<dt class="last nutrition">Protein <span class="value"><span class="protein"><span itemprop="proteinContent">50.0</span></span></span><span class="type"> g</span></dt>
 
-			<dd class="last">12%</dd>
+			<dd class="last">100%</dd>
 		</dl>
 	</div>
 	
@@ -2303,11 +2270,7 @@ Thank you for posting this!</span></p>
 			<p class="nf-title">The following items or measurements are not included:</p>
 			
 				<p class="nf-item">
-					fresh ginger
-				</p>
-			
-				<p class="nf-item">
-					Chinese five spice powder
+					mushroom soy sauce
 				</p>
 			
 		</div>
@@ -2316,7 +2279,7 @@ Thank you for posting this!</span></p>
 	
 	
 	<div class="ft">
-		<a href="http://www.food.com/tests/data/nutrition?rid=128611" class="detail">Detailed Nutrition Values</a>
+		<a href="http://www.food.com/recipe/nutrition?rid=118618" class="detail">Detailed Nutrition Values</a>
 		<a href="http://www.food.com/help/nutrition.zsp" class="about">About Nutrition Info</a>
 	</div>
 
@@ -2454,7 +2417,7 @@ Thank you for posting this!</span></p>
 
     // notes.js initialized on doc ready
     SNI.RZ.Recipe.NotesConfig = {
-        recipeId: "128611",
+        recipeId: "118618",
         privateNotesId: "0",
         noteMemberId: "0"
     };
@@ -2463,8 +2426,8 @@ Thank you for posting this!</span></p>
     (function($){
 
         SNI.RZ.Recipe.init({
-            title: 'Chinese Barbecue Sauce',
-            id: '128611'
+            title: 'Lion\'s Head Meatballs..chinese Comfort Food',
+            id: '118618'
         });
 
 
@@ -2475,11 +2438,11 @@ Thank you for posting this!</span></p>
         MP.shareServerLogin = 'http://share.food.com/registration/login.esi?DEST_URL=';
         MP.calendarPlanDays = {};
 
-        MP.recipeId = "128611";
-        MP.recipeTitle = "Chinese Barbecue Sauce";
+        MP.recipeId = "118618";
+        MP.recipeTitle = "Lion\'s Head Meatballs..chinese Comfort Food";
 
         $("a.removeNotes").click(function () {
-            var $url="/dpn.do?pid=0&mid=0&rid=128611";
+            var $url="/dpn.do?pid=0&mid=0&rid=118618";
             $.ajax({
                 url: $url,
                 success: function(){document.location = document.location+"";}
@@ -2503,19 +2466,19 @@ Thank you for posting this!</span></p>
     })(jQuery);
 
 
-    SNI.RZ.CustomDropdown.addToRecipeLinks("128611");
+    SNI.RZ.CustomDropdown.addToRecipeLinks("118618");
 
 
         // initialize all social media widgets
         socBar = new fdc.Socialbar({
             isPrivate: false,
             widgetOptions: {
-                like: { config: { attribute: { ref: 'recipe-128611' } } },
-                like2: { config: { attribute: { ref: 'recipe-128611' } } },
-                pinit: { config: { querystring: { description: 'Chinese Barbecue Sauce', media: 'http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/12/86/11/picw2kMZl.jpg' } } },
-                pinit2: { config: { querystring: { description: 'Chinese Barbecue Sauce', media: 'http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/12/86/11/picw2kMZl.jpg' } } },
-                tweet: { config: { data: { text: 'Chinese Barbecue Sauce' } } },
-                tweet2: { config: { data: { text: 'Chinese Barbecue Sauce' } } }
+                like: { config: { attribute: { ref: 'recipe-118618' } } },
+                like2: { config: { attribute: { ref: 'recipe-118618' } } },
+                pinit: { config: { querystring: { description: 'Lion\'s Head Meatballs..chinese Comfort Food', media: 'http://img.food.com/fdc/img/FDC_share-logo.png' } } },
+                pinit2: { config: { querystring: { description: 'Lion\'s Head Meatballs..chinese Comfort Food', media: 'http://img.food.com/fdc/img/FDC_share-logo.png' } } },
+                tweet: { config: { data: { text: 'Lion\'s Head Meatballs..chinese Comfort Food' } } },
+                tweet2: { config: { data: { text: 'Lion\'s Head Meatballs..chinese Comfort Food' } } }
             }
         });
 
@@ -2525,7 +2488,7 @@ Thank you for posting this!</span></p>
 
     function subMitEmailForm(rid){ 
         $(".buttondiv").html('<img src="https://www.filepicker.io/static/img/spinner.gif"/>');
-        var url = "http://chinese.food.com/services/mobile/email/recipe?rid=128611",
+        var url = "http://www.food.com/services/mobile/email/recipe?rid=118618",
             data = {
                 fromemail: $("#fromemail").val(),
                 toemail: $("#toemail").val(),
@@ -2549,7 +2512,7 @@ Thank you for posting this!</span></p>
                              $( ".success-message" ).html( "Error Occured. Please try again!" );
                      }
                      Recaptcha.reload();
-                     $(".buttondiv").html('<button id="submit-req" class="btn vip" onclick="subMitEmailForm(128611)">Send</button>');
+                     $(".buttondiv").html('<button id="submit-req" class="btn vip" onclick="subMitEmailForm(118618)">Send</button>');
              }
          });
 
@@ -2616,7 +2579,7 @@ Thank you for posting this!</span></p>
 <li><a href="http://healthy.food.com" rel="Healthy Recipes">Healthy Recipes</a></li>
 <li><a href="http://meatloaf.food.com" rel="Meatloaf Recipes">Meatloaf Recipes</a></li>
 
-<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/tests/data/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
+<script>$(document).bind('ready', function () { var hdr=fdc.module.header,rbn=fdc.module.header.recipeBoxNav;rbn.button.off("hover"),function($){function RecipeBoxNav(options){var me=this,settings=me.settings=$.extend(!0,{},defaultOptions,options||{}),selector=settings.selector;if(this.button=$(selector.button),this.flyout=$(selector.flyout),this.content=this.button.find(selector.content),getLatestRecipes=function(){me.getLatestRecipes()},fdc.isSignedIn){me.content.addClass("logged-in loading"),me.button.on("hover",getLatestRecipes);var topPosition=parseInt(me.flyout.css("top"),10);35==topPosition&&me.getLatestRecipes()}}fdc.module||(fdc.module={});var getLatestRecipes,defaultOptions={selector:{button:".nav_recipeBox",navLink:"h4 a",flyout:".dpdwn",content:".dpdwn-content .dpdwn-col",primaryButton:".dpdwn-mod-var .btn.primary",headline:"h3.headline"},url:{recipeBox:"/api/userRecipes?json=true&offset=0&limit=3&sort=recent&itemImageSize=FDC_100x75",recipeFinder:"food.com/recipe-finder/all"},message:{apiLatestRecipesFail:"Sorry, we are having trouble loading your latest recipes."},content:{noRecipes:{cssClass:"no-recipes",title:"Browse Top Recipes",defaultMessage:"No Recipes Saved Yet!"},showRecipes:{html:'<section class="dpdwn-mod"><div class="bd"><a href="#"><img src="http://img.food.com/fdc/img/recipe/fdc-default.jpg" /><span class="headline"></span></a></div></section>',template:'<section class="dpdwn-mod"><div class="bd"><a href="{0}" title="{2}"><img src="{1}" alt="{2}" {3} /><span class="headline">{2}</span></a></div></section>',title:"Recently Saved",primaryButtonText:"Go to Recipe Box"}}};RecipeBoxNav.prototype.setPrimaryButton=function(msg,link){var me=this;me.content.find(me.settings.selector.primaryButton).text(msg).attr("href",link)},RecipeBoxNav.prototype.failRecipes=function(){var me=this,settings=me.settings;me.content.addClass(settings.content.noRecipes.cssClass),me.noRecipes(settings.message.apiLatestRecipesFail)},RecipeBoxNav.prototype.noRecipes=function(msg){var me=this,content=me.settings.content.noRecipes,title=content.title,url=SNI.RZ.globalServerURL+this.settings.url.recipeFinder;msg=msg||content.defaultMessage,me.content.addClass(content.cssClass).find(".message").html(msg).show(),me.setPrimaryButton(title,url)},RecipeBoxNav.prototype.showRecipes=function(recipes){var html,recipe,imgSrc,title,url,style,me=this,selector=me.settings.selector,$recipeLinks=(me.content.find(".dpdwn-mod .bd a"),me.content.find(".recipe-links")),numRecipes=recipes.length>3?3:recipes.length,content=me.settings.content.showRecipes,template=content.template,recipesDisplayed=0;$recipeLinks.html("");for(var i=0;numRecipes>i;i++)recipe=recipes[i],imgSrc=recipe.image||"",title=recipe.title,url=recipe.url,title&&(recipesDisplayed++,style=imgSrc?"":'style="display: none;"',html=template.format([url,imgSrc,title,style]),$recipeLinks.append(html));recipesDisplayed>0?(me.content.find(selector.headline).text(content.title),me.setPrimaryButton(content.primaryButtonText,SNI.RZ.RecipeBoxApiUrl)):me.noRecipes()},RecipeBoxNav.prototype.getLatestRecipes=function(){var me=this;$.ajax({url:SNI.RZ.RecipeBoxApiUrl+me.settings.url.recipeBox,type:"get",dataType:"json",crossDomain:!0,xhrFields:{withCredentials:!0}}).done(function(response){var data=response.mrb,recipes=data.recipes&&data.recipes.recipe||{};recipes&&recipes.title!==void 0&&!$.isArray(recipes)&&(recipes=[recipes]),recipes.length>0?me.showRecipes(recipes):me.noRecipes(),me.button.off("hover",getLatestRecipes)}).fail(function(){me.failRecipes()}).always(function(){me.content.removeClass("loading")})},fdc.module.RecipeBoxNav=RecipeBoxNav}(jQuery),hdr.recipeBoxNav=new fdc.module.RecipeBoxNav; });</script><script>function assetStats(){}</script>
 
                   
         </ul>
@@ -2650,35 +2613,35 @@ Thank you for posting this!</span></p>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/tests/data/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
+						<a href="http://www.food.com/recipe/soft-snickerdoodle-cookies-97496" rel="gf-ideas-3">Soft Snickerdoodle Cookies</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/tests/data/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
+						<a href="http://www.food.com/recipe/authentic-italian-meatballs-92095" rel="gf-ideas-4">Italian Meatballs Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://deep-fried.food.com/tests/data/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
+						<a href="http://deep-fried.food.com/recipe/hush-puppies-53304" rel="gf-ideas-5">Hush Puppies Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://southern.food.com/tests/data/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
+						<a href="http://southern.food.com/recipe/southern-buttermilk-biscuits-26110" rel="gf-ideas-6">Southern Buttermilk Biscuits</a>
 					</li>					
 								
 					<li>
-						<a href="http://dessert.food.com/tests/data/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
+						<a href="http://dessert.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256" rel="gf-ideas-7">Banana Cake Recipe</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/tests/data/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
+						<a href="http://www.food.com/recipe/julia-childs-hollandaise-sauce-251332" rel="gf-ideas-8">Hollandaise Sauce</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/tests/data/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
+						<a href="http://www.food.com/recipe/best-banana-bread-2886" rel="gf-ideas-9">Best Banana Bread</a>
 					</li>					
 								
 					<li>
-						<a href="http://www.food.com/tests/data/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
+						<a href="http://www.food.com/recipe/the-best-ever-waffles-31750" rel="gf-ideas-10">The Best Ever Waffles</a>
 					</li>					
 			
 			
@@ -2982,8 +2945,6 @@ try{
             }
         }(jQuery));
     </script>
-
-    <a href="/tests/data/sample-depth-test-file">Sample depth test file</a>
 </body>
 </html>
 

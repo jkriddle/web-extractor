@@ -2,9 +2,31 @@ var assert = require("assert"),
 	fs = require("fs"),
 	Extractor = require("../lib/extractor"),
 	listHtml = fs.readFileSync('tests/data/chinese-food-list', 'utf8'),
-	itemHtml = fs.readFileSync('tests/data/chinese-bbq-sauce-128611', 'utf8'),
+	itemHtml = fs.readFileSync('tests/data/chinese-barbecue-sauce-128611', 'utf8'),
 	Crawler = Extractor.Crawler,
 	ExtractMatch = Extractor.ExtractMatch;
+
+
+describe('Crawler', function() {
+	describe('#scrape()', function() {
+		it('should responde with JSON object of scraped data', function(done) {
+			var crawler = new Crawler('tests/config/test.json');
+			crawler.scrape('http://localhost:8181/data/chinese-food-list', listHtml).then(function(obj) {
+				console.log("DON");
+				assert.notEqual(obj, undefined);
+				if (obj != undefined) {
+					assert(obj.Title =="Chinese Barbecue Sauce");
+				}
+				done();
+			}).catch(function(err) {
+				assert.fail(err.message);
+				done();
+			})
+		});
+	});
+});
+
+return;
 
 describe('Crawler', function() {
 	describe('#download()', function() {
