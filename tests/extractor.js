@@ -6,39 +6,37 @@ var assert = require("assert"),
 	Crawler = Extractor.Crawler,
 	ExtractMatch = Extractor.ExtractMatch;
 
-
 describe('Crawler', function() {
-	describe('#scrape()', function() {
-		it('should responde with JSON object of scraped data', function(done) {
+	describe('#getCleanUrl()', function() {
+		it('should return system path friendly format', function() {
 			var crawler = new Crawler('tests/config/test.json');
-			crawler.scrape('http://localhost:8181/data/chinese-food-list', listHtml).then(function(obj) {
-				console.log("DON");
-				assert.notEqual(obj, undefined);
-				if (obj != undefined) {
-					assert(obj.Title =="Chinese Barbecue Sauce");
-				}
-				done();
-			}).catch(function(err) {
-				assert.fail(err.message);
-				done();
-			})
+			var result = crawler.getCleanUrl('http://localhost:8080/some-crazy-path?query=string');
+			console.log(result);
+			assert.equal(result, 'httplocalhost8080some-crazy-pathquerystring');
 		});
 	});
-});
 
-return;
+	describe('#scrape()', function() {
+		it('should respond with JSON object of scraped data', function(done) {
+			var crawler = new Crawler('tests/config/test.json');
+			crawler.scrape('chinese-barbecue-sauce-128611', listHtml).then(function(obj) {
+				assert.notEqual(obj, undefined);
+				console.log(obj);
+				if (obj != undefined) {
+					assert(obj.Title == "Chinese Barbecue Sauce");
+				}
+				done();
+			}).catch(done);
+		});
+	});
 
-describe('Crawler', function() {
 	describe('#download()', function() {
 		it('should respond with data from valid URL', function(done) {
 			var crawler = new Crawler('tests/config/test.json');
 			crawler.download('http://localhost:8181/data/chinese-food-list').then(function(html) {
 				assert.notEqual(html.indexOf("<title>Chinese Food Recipes  - Food.com</title>"), -1);
 				done();
-			}).catch(function(err) {
-				assert.fail(err.message);
-				done();
-			})
+			}).catch(done);
 		});
 	});
 

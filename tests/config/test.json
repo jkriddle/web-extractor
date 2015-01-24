@@ -4,6 +4,7 @@
     "maxDepth" : 2,
     "timeout" : 3000,
     "interval" : 250,
+    "cache" : "cache",
     "start" : [
         "http://localhost:8181/tests/data/chinese-food-list"
     ],

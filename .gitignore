@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io
 
 output
+cache
 
 ### Node ###
 # Logs
