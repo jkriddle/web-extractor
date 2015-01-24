@@ -23,6 +23,43 @@
             "match": "body",
             "children": [
                 {
+                    "name": "title",
+                    "description": "title",
+                    "match": "#rz-lead .item h1.fn"
+                },
+                {
+                    "name": "rating",
+                    "description": "Rating",
+                    "match": ".rating .average .value-title[title]"
+                },
+                {
+                    "name": "photo",
+                    "description": "Photo",
+                    "match": ".recipe-photo-bd #enlrphoto img"
+                },
+                {
+                    "name": "time",
+                    "description": "Time",
+                    "match": ".ckTime .ct-e",
+                    "children": [
+                        {
+                            "name": "total_time",
+                            "description": "Total Time",
+                            "match": ".duration"
+                        },
+                        {
+                            "name": "prep_time",
+                            "description": "Prep Time",
+                            "match": ".preptime"
+                        },
+                        {
+                            "name": "cook_time",
+                            "description": "Cook Time",
+                            "match": ".cooktime"
+                        }
+                    ]
+                },
+                {
                     "name": "ingredients",
                     "description": "Ingredients",
                     "match": ".ingredients",
@@ -31,7 +68,7 @@
                         {
                             "name": "ingredient",
                             "description": "Ingredient",
-                            "match": "li.ingredient",
+                            "match": ".ingredient",
                             "children": [
                                 {
                                     "name": "value",
@@ -47,6 +84,26 @@
                                     "name": "name",
                                     "description": "Name",
                                     "match": ".name"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "directions",
+                    "description": "Directions",
+                    "match": ".directions",
+                    "type" : "array",
+                    "children": [
+                        {
+                            "name": "step",
+                            "description": "Step",
+                            "match": "ol",
+                            "children": [
+                                {
+                                    "name": "description",
+                                    "description": "Description",
+                                    "match": "li"
                                 }
                             ]
                         }
